@@ -4,8 +4,8 @@
   "description": "The about_us and imprint texts",
   "name": "text",
   "properties": {
-    "permalink": {
-      "description": "Link to the text",
+    "slug": {
+      "description": "The text's unique identifier",
       "required": true,
       "type": "string"
     },
