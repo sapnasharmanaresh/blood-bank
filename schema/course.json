@@ -27,13 +27,13 @@
     "price": {
       "type": "number"
     },
-    "start": {
+    "starts_at": {
       "format": "date-time",
       "type": "string",
       "description": "Course's start date and time. Time will be used as the start time for all days of the course series.",
       "required": true
     },
-    "end": {
+    "ends_at": {
       "format": "date-time",
       "type": "string",
       "description": "Course's end date and time. Time will be used as the end time for all days of the course series.",

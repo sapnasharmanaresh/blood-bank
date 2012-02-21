@@ -6,8 +6,8 @@
     "description": "",
     "language": "German",
     "price": 750,
-    "start": "2011-01-04T10:00:00Z",
-    "end": "2011-01-06T16:00:00Z",
+    "starts_at": "2011-01-04T10:00:00Z",
+    "ends_at": "2011-01-06T16:00:00Z",
     "location_slug": "coworking_cologne",
     "teachers": [
       {
@@ -24,7 +24,7 @@
     "places": 20,
     "url": "http://university.railslove.com/courses/1",
     "slides_url": "http://speakerdeck.com/u/railslove/p/3dayworkshopslides",
-     "tags": [
+    "tags": [
       "Ruby on Rails",
       "Ruby",
       "Introduction"
