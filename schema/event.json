@@ -1,55 +1,40 @@
 {
-    "name": "event",
-    "description" : "A representation of an event",
-    "type" : "object",
-    "properties" : {
-        "slug": {
-          "type": "string",
-          "description": "Event's slug.",
-          "required": true
-        },
-        "dtstart" : {
-            "format" : "date-time",
-            "type" : "string",
-            "description" : "Event starting time",
-            "required": true
-        },
-        "title" : {
-            "type":"string",
-            "required": true
-        },
-        "location" : { 
-            "type" : "string"
-        },
-        "url" : {
-            "type" : "string", 
-            "format" : "url" 
-        },
-        "dtend" : {
-            "format" : "date-time",
-            "type" : "string",
-            "description" : "Event ending time"
-        },
-        "duration" : {
-            "format" : "date",
-            "type" : "string",
-            "description" : "Event duration"
-        },
-        "rdate" : {
-            "format" : "date-time",
-            "type" : "string",
-            "description" : "Recurrence date"
-        },
-        "rrule" : {
-            "type" : "string",
-            "description" : "Recurrence rule"
-        },
-        "category" : {
-            "type" : "string"
-        },
-        "description" : {
-            "type" : "string"
-        },
-        "geo" : { "$ref" : "http://json-schema.org/draft-03/geo" }
+  "name": "event",
+  "description": "A representation of an event",
+  "type": "object",
+  "properties": {
+    "slug": {
+      "type": "string",
+      "description": "Event's slug.",
+      "required": true
+    },
+    "name": {
+      "type":"string",
+      "required": true
+    },
+    "teaser": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "starts_at": {
+      "format": "date-time",
+      "type": "string",
+      "description": "Event starting time",
+      "required": true
+    },
+    "ends_at" : {
+      "format" : "date-time",
+      "type" : "string",
+      "description" : "Event ending time"
+    },
+    "location_slug": {
+      "type": "string"
+    },
+    "url" : {
+      "type": "string",
+      "format": "url"
     }
+  }
 }
