@@ -1,0 +1,31 @@
+{
+  "project": {
+    "slug": "showoff_presentations",
+    "name": "showoff presentations",
+    "description": "This is a repository with Railslove presentations created using <a href='https://github.com/schacon/showoff' target='_blank'>showoff</a>",
+    "logo": "https://github.com/railslove/showoff-presentations/blob/master/template/railslove-logo-175x42.png",
+    "screenshot": "https://github.com/railslove/showoff-presentations/raw/master/template/readme-images/callout-logo.png",
+    "screenshot_small": "https://github.com/railslove/showoff-presentations/raw/master/template/readme-images/callout-logo.png",
+    "url": "https://github.com/railslove/showoff-presentations",
+    "people": [
+      {
+        "person": {
+          "slug": "paul_wittmann"
+        },
+        "person": {
+          "slug": "jakob_hilden"
+        },
+        "person": {
+          "slug": "mike_poltyn"
+        },
+        "person": {
+          "slug": "salim_hbeiliny"
+        }
+      }
+    ],
+    "what_we_did": "Coding.",
+    "project_type": "own"
+  }
+}
+
+
