@@ -3,9 +3,9 @@
     "slug": "tipplr",
     "name": "Tipplr",
     "sort_order": 3,
-    "description": "....",
+    "description": "",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/tipplr/logo.png",
-    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/tipplr/screenshot.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/tipplr/screenshotn.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/tipplr/screenshot_small.png",
     "url": "http://tipplr.de/",
     "twitter_name": "tipplr",
@@ -34,7 +34,7 @@
         }
       }
     ],
-    "what_we_did": "......",
+    "what_we_did": "",
     "project_type": "own"
   }
 }
