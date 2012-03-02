@@ -1,0 +1,28 @@
+{
+  "project": {
+    "slug": "hackers_pursuit_nerd_pursuit",
+    "name": "Hackers Pursuit/Nerd Pursuit",
+    "sort_order": 3,
+    "description": "A realtime game using https://github.com/Nerds/NerdPursuit/ questions.",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/hackers_pursuit_nerd_pursuit/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/hackers_pursuit_nerd_pursuit/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/hackers_pursuit_nerd_pursuit/screenshot_small.png",
+    "url": "http://hackerspursuit.com/",
+    "twitter_name": "hackerspursuit",
+    "people": [
+      {
+        "person": {
+          "slug": "jan_kus",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "georg_leciejewski"
+        }
+      }
+    ],
+    "what_we_did": "Together with 9elements we invited a new game concept and a open source game implementation with node.js. Push your questions on github and improve your hacker DNA. https://github.com/Nerds/NerdPursuit/",
+    "project_type": "own"
+  }
+}
