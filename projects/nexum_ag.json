@@ -1,0 +1,41 @@
+{
+  "project": {
+    "slug": "nexum_ag",
+    "name": "nexum AG (o2seller)",
+    "sort_order": 3,
+    "description": "nexum AG is a consultancy and agency for digital media.",
+    "logo": "",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/nexum_ag/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/nexum_ag/screenshot_small.png",
+    "url": "http://www.o2seller.de/",
+    "twitter_name": "o2seller",
+    "facebook_name": "o2seller",
+    "people": [
+      {
+        "person": {
+          "slug": "stephan_pavlovic",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "jan_kus"
+        }
+      },
+      {
+        "person": {
+          "slug": "philipp_brumm"
+        }
+      },
+      {
+        "person": {
+          "slug": "max_schulz"
+        }
+      }
+    ],
+    "what_we_did": " Railslove ....",
+    "project_type": "client"
+  }
+}
+
+
