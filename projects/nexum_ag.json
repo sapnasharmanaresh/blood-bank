@@ -2,40 +2,24 @@
   "project": {
     "slug": "nexum_ag",
     "name": "nexum AG (o2seller)",
+    "description": "o2seller is a new distributive plattform where satified o2-customers can procure contracts to family and friends",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/avocado_store/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/avocado_store/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/avocado_store/screenshot_small.png",
+    "url": "http://www.avocadostore.de/",
+    "twitter_name": "avocadostore",
+    "facebook_name": "avocadostore",
+    "owner" : "avocadostore",
+    "project_type": "client",
+    "what_we_did": "Railslove developed this app a technical maintainer for nexum AG.",
     "sort_order": 3,
-    "description": "nexum AG is a consultancy and agency for digital media.",
-    "logo": "",
-    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/nexum_ag/screenshot.png",
-    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/nexum_ag/screenshot_small.png",
-    "url": "http://www.o2seller.de/",
-    "twitter_name": "o2seller",
-    "facebook_name": "o2seller",
     "people": [
       {
         "person": {
-          "slug": "stephan_pavlovic",
+          "slug": "lars_brillert",
           "contact": true
         }
-      },
-      {
-        "person": {
-          "slug": "jan_kus"
-        }
-      },
-      {
-        "person": {
-          "slug": "philipp_brumm"
-        }
-      },
-      {
-        "person": {
-          "slug": "max_schulz"
-        }
       }
-    ],
-    "what_we_did": " Railslove ....",
-    "project_type": "client"
+    ]
   }
 }
-
-
