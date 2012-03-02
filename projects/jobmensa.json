@@ -5,8 +5,8 @@
     "sort_order": 3,
     "description": "Jobmensa is Germanys biggest job website for students. More than 7.000 german and international companies use Jobmensa to place their job offers.",
     "logo": "",
-    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/jobmensa/jobmensa.png",
-    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/jobmensa/jobmensa_small.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/jobmensa/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/jobmensa/screenshot_small.png",
     "url": "http://www.jobmensa.de/",
     "twitter_name": "jobmensa",
     "people": [
@@ -28,7 +28,7 @@
         }
       }
     ],
-    "what_we_did": " Railslove ....",
+    "what_we_did": "",
     "project_type": "client"
   }
 }
