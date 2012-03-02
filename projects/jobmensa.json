@@ -1,0 +1,36 @@
+{
+  "project": {
+    "slug": "jobmensa",
+    "name": "Studitemps GmbH",
+    "sort_order": 3,
+    "description": ".............",
+    "logo": "",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/studitemps_gmbh/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/studitemps_gmbh/screenshot_small.png",
+    "url": "http://www.jobmensa.de/",
+    "twitter_name": "jobmensa",
+    "people": [
+      {
+        "person": {
+          "slug": "jan_kus",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "philipp_brumm",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "max_schulz",
+        }
+      }
+    ],
+    "what_we_did": " Railslove ....",
+    "project_type": "client"
+  }
+}
+
+
