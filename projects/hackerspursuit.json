@@ -3,7 +3,7 @@
     "slug": "hackers_pursuit_nerd_pursuit",
     "name": "Hackers Pursuit/Nerd Pursuit",
     "sort_order": 3,
-    "description": "A realtime game based on https://github.com/Nerds/NerdPursuit/ questions. Together with 9elements we've invited a new game concept and a open source game implementation with node.js. Push your questions to github and improve your hacker DNA. https://github.com/Nerds/NerdPursuit/",
+    "description": "A realtime game based on <a href='https://github.com/Nerds/NerdPursuit/' target='_blank'>https://github.com/Nerds/NerdPursuit/</a> questions. Together with <a href='http://9elements.com' target='_blank'>9elements</a> we've invited a new game concept and a open source game implementation with node.js. Push your questions to github and improve your hacker DNA.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/hackers_pursuit_nerd_pursuit/logo.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/hackers_pursuit_nerd_pursuit/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/hackers_pursuit_nerd_pursuit/screenshot_small.png",
