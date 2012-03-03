@@ -3,7 +3,7 @@
     "slug": "happy_pdf",
     "name": "happyPDF",
     "sort_order": 3,
-    "description": "",
+    "description": "Build your Business, Not a PDF engine. Stop wasting time with crappy PDF libs, layout & design programming, media-disruption, dynamic data merging. happyPDF is an API for .pdf. GET /pdf and be happy.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/happy_pdf/happy_pdf.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/happy_pdf/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/happy_pdf/screenshot_small.png",
