@@ -2,6 +2,7 @@
   "project": {
     "slug": "showoff_presentations",
     "name": "showoff presentations",
+    "sort_order": 5,
     "description": "This is a repository with Railslove presentations created using <a href='https://github.com/schacon/showoff' target='_blank'>showoff</a>",
     "logo": "https://github.com/railslove/showoff-presentations/blob/master/template/railslove-logo-175x42.png",
     "screenshot": "https://github.com/railslove/showoff-presentations/raw/master/template/readme-images/screenshot.png",

@@ -2,7 +2,7 @@
   "project": {
     "slug": "o2seller",
     "name": "o2seller (nexum AG)",
-    "description": "o2seller is a new distributive plattform where satified o2 customers can procure contracts to family and friends. Railslove developed this app a technical maintainer for nexum AG.",
+    "description": "o2seller is a new distributive platform, where satified o2 customers can become contractors to their family and friends. Railslove developed this app for <a href=\"http://www.nexum.de/en/\">nexum AG</a>.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/o2seller/logo.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/o2seller/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/o2seller/screenshot_small.png",
@@ -10,7 +10,7 @@
     "twitter_name": "o2seller",
     "project_type": "client",
     "what_we_did": "",
-    "sort_order": 3,
+    "sort_order": 2,
     "people": [
       {
         "person": {

@@ -2,7 +2,7 @@
   "project": {
     "slug": "jobmensa",
     "name": "Jobmensa.de (Studitemps GmbH)",
-    "sort_order": 3,
+    "sort_order": 8,
     "description": "Jobmensa is Germanys biggest job website for students. More than 7.000 german and international companies use Jobmensa to place their job offers.",
     "logo": "",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/jobmensa/screenshot.png",
