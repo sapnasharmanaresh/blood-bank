@@ -3,15 +3,27 @@
     "slug": "railsrunners",
     "name": "RailsRunners",
     "sort_order": 2,
-    "description": "",
+    "description": "Service for organizing charity runs during camps and conferences such as <a href='http://railscamps.org'>railscamps.org</a>",
     "logo": "",
     "screenshot": "",
     "screenshot_small": "",
     "url": "http://railsrunners.org/",
     "twitter_name": "",
+    "people": [
+      {
+        "person": {
+          "slug": "mike_poltyn",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "jan_kus",
+          "contact": true
+        }
+      }
+    ],
     "what_we_did": "",
     "project_type": "own"
   }
 }
-
-

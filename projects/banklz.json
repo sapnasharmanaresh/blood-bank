@@ -3,15 +3,33 @@
     "slug": "banklz",
     "name": "bankLZ",
     "sort_order": 2,
-    "description": "",
+    "description": "Webservice for german banccodes used for money transfers. The service accepts a bank code (BLZ) and returns information about it in json or xml format",
     "logo": "",
     "screenshot": "",
     "screenshot_small": "",
     "url": "http://banklz.net/",
     "twitter_name": "",
+    "people": [
+      {
+        "person": {
+          "slug": "jan_kus",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "michael_bumann",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "lars_brillert",
+          "contact": true
+        }
+      }
+    ],
     "what_we_did": "",
     "project_type": "own"
   }
 }
-
-

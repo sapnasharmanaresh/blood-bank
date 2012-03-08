@@ -3,15 +3,27 @@
     "slug": "jamii",
     "name": "Jamii",
     "sort_order": 2,
-    "description": "",
+    "description": "As a coach or \"boss\" you have to call several people from your team to tell them something. using jamii you do 1 call and receive a consolidated feedback from your whole team",
     "logo": "",
     "screenshot": "",
     "screenshot_small": "",
     "url": "http://connect.jamii.de/",
     "twitter_name": "",
-    "what_we_did": "",
+    "people": [
+      {
+        "person": {
+          "slug": "michael_bumann",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "lars_brillert",
+          "contact": true
+        }
+      }
+    ],
+    "what_we_did": "We developped it from scratch",
     "project_type": "client"
   }
 }
-
-

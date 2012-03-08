@@ -8,10 +8,40 @@
     "screenshot": "",
     "screenshot_small": "",
     "url": "http://www.dealbaseapp.com/",
-    "twitter_name": "",
+    "twitter_name": "dealbaseapp",
+    "people": [
+      {
+        "person": {
+          "slug": "michael_bumann",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "lars_brillert",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "jan_kus",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "stephan_pavlovic",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "philipp_brumm",
+          "contact": true
+        }
+      }
+    ],
     "what_we_did": "",
     "project_type": "own"
   }
 }
-
-
