@@ -1,0 +1,16 @@
+{
+  "person": {
+    "slug": "dennis_reimann",
+    "first_name": "Dennis",
+    "last_name": "Reimann",
+    "email": "dennis@railslove.com",
+    "photo": "",
+    "description": "Dennis likes software and is passionate about developing it. He heard about Ruby several ago and fell in love with Rails when building an event calendar application which he later sold and used the money to go freelance. Besides all things binary Dennis.is_a?(Father), has_one :daughter and belongs_to :his_wife",
+    "github_name": "dbloete",
+    "codebase_name": "",
+    "twitter_name": "dennisreimann",
+    "twitter_uid": "1145881",
+    "meta_title": "Dennis Reimann - Software developer",
+    "meta_description": ""
+  }
+}
