@@ -13,6 +13,7 @@
     "url": "http://salim.tel/",
     "teacher": false,
     "meta_title": "Salim Hbeiliny - Ruby on Rails developer in the making",
-    "meta_description": "Salim loves to work with everything related to the web. He has a long experience using different platforms for the web: Flash, PHP, HTML, CSS. Aside from doing a Web Science masters in Cologne University of Applied Sciences, his current mission is to become a Ruby and Rails guru."
+    "meta_description": "Salim loves to work with everything related to the web. He has a long experience using different platforms for the web: Flash, PHP, HTML, CSS. Aside from doing a Web Science masters in Cologne University of Applied Sciences, his current mission is to become a Ruby and Rails guru.",
+    "family_status": "core"
   }
 }
