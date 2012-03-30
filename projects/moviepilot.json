@@ -1,0 +1,30 @@
+{
+  "project": {
+    "slug": "moviepilot",
+    "name": "moviepilot.com",
+    "sort_order": 10,
+    "description": "moviepilot.com is a new home for upcoming movies – and a home for the movie fans around the globe who care about them. Discuss news, trailers and facts long before a movie hits theaters.",
+    "what_we_did": "Railslove helped the moviepilot team with building their app's interaction concept along with our friends at <a href='http://nine2011.9elements.com/'>9elements</a>. Afterwards we joined forces again and developed the first iterations based on Backbone.js. Thanks to the following mad Backbone skills of Mathias Schäfer, people now can enjoy a whole new experience of movie entertainment on moviepilot.com and developers are invited start building their applications based on <a href='https://github.com/moviepilot/chaplin'>Chaplin</a> - a well-designed application architecture using Backbone.js.",
+    "logo": "",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/moviepilot/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/moviepilot/screenshot_small.png",
+    "url": "http://moviepilot.com/",
+    "twitter_name": "moviepilotcom",
+    "people": [
+      {
+        "person": {
+          "slug": "tim_schneider",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "paul_wittmann"
+        }
+      }
+    ],
+    "project_type": "client"
+  }
+}
+
+
