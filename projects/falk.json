@@ -4,7 +4,7 @@
     "name": "m.falk.de",
     "sort_order": 10,
     "description": "The Falk mobile app is a combination of Falk's excellent POI data, and Bing Maps' fluid mobile mapping.",
-    "what_we_did": "Railslove developed a responsive and image-less interface based on mockups from an external agency. For this, all image-based designs were reworked to CSS3, utilizing HTML5 elements. All animations are GPU-accelerated and buttery smooth, thanks to CSS 3D transforms. This work were done together with our friends at <a href='http://nine2011.9elements.com/'>9elements</a>",
+    "what_we_did": "Railslove developed a responsive and image-less interface based on mockups. For this, all image-based designs were reworked to CSS3, utilizing HTML5 elements. All animations are GPU-accelerated and buttery smooth, thanks to CSS 3D transforms. This work were done together with our friends <a href='http://nine2011.9elements.com/'>9elements</a>.",
     "logo": "",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/falk/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/falk/screenshot_small.png",
