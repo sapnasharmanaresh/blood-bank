@@ -4,7 +4,7 @@
     "name": "moviepilot.com",
     "sort_order": 10,
     "description": "moviepilot.com is a new home for upcoming movies – and a home for movie fans around the globe who care about them. Discuss news, trailers and facts long before a movie hits theaters.",
-    "what_we_did": "Together with our friends at <a href='http://nine2011.9elements.com/'>9elements</a> we helped moviepilot develop their app's interaction concept as well as the app's first iterations. Thanks to the mad Backbone.js skills of Mathias Schäfer, people now can enjoy a whole new and highly interactive moviepilot.com - and developers are invited to use <a href='https://github.com/moviepilot/chaplin'>Chaplin</a>, a sample application architecture Mathias et al. built on top of Backbone.js.",
+    "what_we_did": "Together with our friends at <a href='http://nine2011.9elements.com/'>9elements</a> we helped develop an interaction concept as well as the first couple of iterations for the new moviepilot.com. Thanks to the mad Backbone.js skills of Mathias Schäfer, people now can enjoy a whole new and highly interactive moviepilot.com - and developers are invited to use <a href='https://github.com/moviepilot/chaplin'>Chaplin</a>, a sample application architecture Mathias et al. built on top of Backbone.js.",
     "logo": "",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/moviepilot/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/moviepilot/screenshot_small.png",
