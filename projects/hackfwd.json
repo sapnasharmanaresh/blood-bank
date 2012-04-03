@@ -1,0 +1,30 @@
+{
+  "project": {
+    "slug": "phase2generator",
+    "name": "http://phase2generator.com/",
+    "sort_order": 10,
+    "description": "",
+    "what_we_did": "Together with our friends at <a href='http://nine2011.9elements.com/'>9elements</a> we've realized the concept and developed the application, based on Ruby on Rails.",
+    "logo": "",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/hackfwd/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/hackfwd/screenshot_small.png",
+    "url": "http://phase2generator.com/",
+    "twitter_name": "hackfwd",
+    "people": [
+      {
+        "person": {
+          "slug": "lena_hermann",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "michael_bumann"
+        }
+      }
+    ],
+    "project_type": "client"
+  }
+}
+
+
