@@ -1,7 +1,7 @@
 {
   "project": {
     "slug": "phase2generator",
-    "name": "http://phase2generator.com/",
+    "name": "phase2generator",
     "sort_order": 10,
     "description": "phase2generator is a tool which helps to create and visualise business models. Exact questions, embedded video tips and resources helps to understand the idea of a potentual business. Also it's possible to submit the business ideas directly to a HackFwd referrer.",
     "what_we_did": "Together with our friends at <a href='http://nine2011.9elements.com/'>9elements</a> we've realized the concept and developed the application, based on Ruby on Rails.",
