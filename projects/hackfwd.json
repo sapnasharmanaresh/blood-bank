@@ -3,8 +3,8 @@
     "slug": "phase2generator",
     "name": "phase2generator",
     "sort_order": 10,
-    "description": "phase2generator is a tool which helps to create and visualise business models. Exact questions, embedded video tips and resources helps to understand the idea of a potentual business. Also it's possible to submit the business ideas directly to a HackFwd referrer.",
-    "what_we_did": "Together with our friends at <a href='http://nine2011.9elements.com/'>9elements</a> we've realized the concept and developed the application, based on Ruby on Rails.",
+    "description": "Phase2Generator is a HackFwd product that helps you to sharpen and visualize your business model using the business model framework. The tool is also used to apply for the HackFwd startup pre-seed investment program.",
+    "what_we_did": "Together with our friends at <a href='http://nine2011.9elements.com/'>9elements</a> we've realized the concept and developed the application, using ruby, rails and mongodb.",
     "logo": "",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/hackfwd/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/hackfwd/screenshot_small.png",
@@ -26,5 +26,3 @@
     "project_type": "client"
   }
 }
-
-
