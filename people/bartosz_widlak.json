@@ -1,0 +1,18 @@
+{
+  "person": {
+    "slug": "bartosz_widlak",
+    "first_name": "Bartosz",
+    "last_name": "Widłak",
+    "email": "bartek@railslove.com",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/bartosz/portrait.jpg",
+    "description": "Good decisions come from experience... that's what Bartek believes in. Since 2005, his major field is a User Experience. He always looks for improvements - to help World become a better place. In addition to UX he is a talented graphic designer with perfect HTML & CSS skills, and a Rails-lover. Bartek's skills are appreciated by companies in Poland, England and Germany. He's currently working at <a href='http://www.line.co.uk'>Line Communications</a>.",
+    "twitter_name": "bwidlak",
+    "twitter_uid": "25270449",
+    "github_name": "bwidlak",
+    "codebase_name": "tmschndr",
+    "facebook_name": "",
+    "meta_title": "Bartek Widłak - Ruby on Rails developer",
+    "meta_description": "",
+    "family_status": "familiy"
+  }
+}

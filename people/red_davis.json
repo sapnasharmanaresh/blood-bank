@@ -1,0 +1,18 @@
+{
+  "person": {
+    "slug": "red_davis",
+    "first_name": "Red",
+    "last_name": "Davis",
+    "email": "reddavis@gmail.com",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/red/portrait.jpg",
+    "description": "The <a href='http://bit.ly/bxOC8x'>English</a> guy. His favourite things include: <a href='http://github.com/reddavis'>code</a> (duh!), the word lovely, coffee, tea, <a href='http://github.com/whymirror'> awesome code written by other people</a> and anything Apple. He is currently studying maths with the open university and occasionally writes on his <a href='http://redwriteshere.com'>blog</a>. It is his dream to have Railslove sponsored by <a href='http://bit.ly/bvAXuO'>Swiss Choco Bits</a>. Red established his company RiotHQ in the beginning of 2011",
+    "twitter_name": "reddavis",
+    "twitter_uid": "9380652",
+    "github_name": "reddavis",
+    "codebase_name": "reddavis",
+    "facebook_name": "reddavis",
+    "meta_title": "Red Davis - Ruby on Rails developer",
+    "meta_description": "",
+    "family_status": "family"
+  }
+}
