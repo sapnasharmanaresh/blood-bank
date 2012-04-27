@@ -23,6 +23,11 @@
         "person": {
           "slug": "lars_brillert"
         }
+      },
+      {
+        "person": {
+          "slug": "paul_wittmann"
+        }
       }
     ]
   }
