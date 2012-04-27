@@ -19,6 +19,10 @@
       "required": true,
       "type": "string"
     },
+    "pirate_name": {
+      "description": "your pirate name.",
+      "type": "string"
+    },    
     "email": {
       "description": "email of the person.",
       "required": true,
