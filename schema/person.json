@@ -30,7 +30,7 @@
     },
     "photo": {
       "description": "image url.",
-      "required": true,
+      "required": false,
       "type": "string"
     },
     "description": {
