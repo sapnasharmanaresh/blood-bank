@@ -28,6 +28,11 @@
         "person": {
           "slug": "paul_wittmann"
         }
+      },
+      {
+        "person": {
+          "slug": "sebastian_kippes"
+        }
       }
     ]
   }

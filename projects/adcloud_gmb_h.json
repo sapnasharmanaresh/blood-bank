@@ -13,13 +13,23 @@
     "people": [
       {
         "person": {
-          "slug": "georg_leciejewski",
-          "contact": true
+          "slug": "georg_leciejewski"
         }
       },
       {
         "person": {
           "slug": "jan_kus"
+        }
+      },
+      {
+        "person": {
+          "slug": "lars_brillert",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "maximilian_schulz"
         }
       }
     ],
