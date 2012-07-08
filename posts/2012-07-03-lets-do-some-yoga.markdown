@@ -9,6 +9,7 @@ author_url: http://www.railslove.com
 wordpress_id: 1697
 wordpress_url: http://blog.railslove.com/?p=1697
 published_at: 2012-07-03 16:13:10.000000000 +02:00
+featured_image: http://blog.railslove.com/wp-content/uploads/2012/07/IMG_3491.jpg
 categories:
 - railslove
 ---
