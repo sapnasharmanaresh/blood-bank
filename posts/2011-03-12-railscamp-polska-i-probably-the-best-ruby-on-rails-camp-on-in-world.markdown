@@ -1,7 +1,7 @@
 ---
 title: railscamp Polska I - probably the best ruby on rails camp in World
 slug: railscamp-polska-i-probably-the-best-ruby-on-rails-camp-on-in-world
-author: bartek_widlak
+author: bartosz_widlak
 published: true
 author_name: bartek
 author_email: bartek@railslove.com
