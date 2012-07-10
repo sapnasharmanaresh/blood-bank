@@ -79,3 +79,5 @@ or:
           }
         }
       }
+
+### [Blogging Guide](https://github.com/railslove/blood-bank/wiki/Blogging-Guide)
