@@ -25,7 +25,7 @@ Here's a short overview of events happening in April around Cologne. If you want
 <li><a href="http://hcking.de/events/84/single_events/428">Bastelnachmittag bei der Dingfabrik: 13.04.2012 um 19:00</a></li>
 <li><a href="http://hcking.de/events/6/single_events/31">Cologne Clojure User Group: 19.04.2012</a></li>
 <li>Kölsch.rb (Ruby UserGroup) im Coworking Cologne: 25.04.2012</li>
-<li><a href="hackathon.advance-conference.com">Advance Hackathon im Coworking Cologne: 27.04.-29.04.</a></li>
+<li><a href="http://hackathon.advance-conference.com">Advance Hackathon im Coworking Cologne: 27.04.-29.04.</a></li>
 </ul>
 
 If you're missing some events just have a look at <a href="http://hcking.de">hcking.de</a> - there are lots of others.
