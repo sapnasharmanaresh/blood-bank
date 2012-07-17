@@ -2,8 +2,8 @@
 title: Introducing Mr. Prezbo
 author: paul_wittmann
 featured_image: http://upload.wikimedia.org/wikipedia/en/0/0d/The_Wire_Prez.jpg
-categories:
-- railslove
+tags:
+  keyword: railslove
 ---
 Railslove Is Taking Classes Again
 ---------------------------------
