@@ -3,9 +3,9 @@ title: UI-Check.com relaunched
 author: paul_wittmann
 featured_image: http://farm9.staticflickr.com/8156/7689995006_2212744f08_b.jpg
 tags:
-- ui-check
-- clients
-- relaunch
+  keyword: ui-check
+  keyword: clients
+  keyword: relaunch
 ---
 We're very proud to present our latest client work - the new [UI-check.com](http://www.ui-check.com).
 
