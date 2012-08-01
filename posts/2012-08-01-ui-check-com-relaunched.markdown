@@ -18,11 +18,11 @@ UI-Check.com offers a great way to get real user feedback extremely fast - you g
 
 Development Process
 -------------------
-Stephan and Paul developed UI-Check.com in 8 weeks. The design was done by Liane and Bumi helped us with refactoring, advanced backend stuff, and the deployment to Engine Yard, which we're using for the first time for a production system.<br>
+[Stephan](http://railslove.com/team/stephan_pavlovic) and I developed UI-Check.com in eight weeks. The design was done by [Liane](http://railslove.com/team/liane_thonnes), and [Michael](http://railslove.com/team/michael_bumann) helped us with refactoring, advanced backend stuff, and the deployment to Engine Yard, which we're using for the first time for a production system.<br>
 We used Pivotal Tracker to plan weekly sprints and had daily Skype calls with Jan Wolter from UI-Check.com. The code's hosted on Github and continually tested with [Travis CI](http://travis-ci.org) Pro.
 
 We started by implementing the data model and the workflow from ordering a test to the automatic selection of testers by certain criteria (gender, age, internet experience etc.).<br>
-Once the design had been perfected, we started SMACSSing things up by following Jakob's [Smurfville conventions](https://github.com/railslove/smurfville/wiki/Styleguide). We love SMACSS and together with [Smurfville's](https://github.com/railslove/smurfville) adjustments for SASS and Compass (nesting for better code layout, the additional power of CSS variables, mixins, and extends) it was the best guideline we've ever had for structuring our front-end templates.
+Once the design had been perfected, we started SMACSSing things up by following [Jakob's](http://railslove.com/team/jakob_hilden) [Smurfville conventions](https://github.com/railslove/smurfville/wiki/Styleguide). We love SMACSS and together with [Smurfville's](https://github.com/railslove/smurfville) adjustments for SASS and Compass (nesting for better code layout, the additional power of CSS variables, mixins, and extends) it was the best guideline we've ever had for structuring our front-end templates.
 
 ### Back end
 * Ruby on Rails 3.2
