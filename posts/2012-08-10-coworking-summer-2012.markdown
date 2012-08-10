@@ -1,5 +1,5 @@
 ---
-title: Coworking Summer 2012 - kostenlos Coworken und Wissensaustausch im Space
+title: Coworking Summer 2012 - kostenlos coworken und Wissensaustausch mit Railslove
 author: jan_kus
 featured_image: http://getfile4.posterous.com/getfile/files.posterous.com/temp-2012-08-03/slpBddaEnfAeyGCEowjhyhfFBwzgcmbajEbAzaCfbjIgAbcuvcnjCDlDqfdG/deskmag-coworking-2647.jpeg.scaled1000.jpg
 tags:
