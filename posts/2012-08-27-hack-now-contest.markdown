@@ -1,7 +1,7 @@
 ---
 title: HackNow 2012 Coding Contest for under 18-year olds!
 author: jan_kus
-featured_image: https://www.dropbox.com/s/4iq9ftselaxnw6x/Screen%20Shot%202012-08-27%20at%209.48.44%20PM.png
+featured_image: https://img.skitch.com/20120827-eeu7uff69uu4x8bshnuii2d1e7.jpg
 tags:
   keyword: contest
   keyword: coding
