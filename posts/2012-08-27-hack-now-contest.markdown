@@ -1,7 +1,7 @@
 ---
 title: HackNow 2012 Coding Contest for under 18-year olds!
 author: jan_kus
-featured_image: https://www.dropbox.com/s/4iq9ftselaxnw6x/Screen%20Shot%202012-08-27%20at%209.48.44%20PM.png
+featured_image: https://photos-4.dropbox.com/psi/xl/ZnzcO-BGAuGZz_r9Ogx7EPFgjPtUodP4uR50lTLC1dY/4394/1346187600/50d7286/Screen%20Shot%202012-08-27%20at%209.48.44%20PM.png
 tags:
   keyword: contest
   keyword: coding
@@ -14,7 +14,3 @@ Do you know the blogpost on Github ["Kids are the future. Teach 'em to code"](ht
 Participate can every citizen of the european union who is 17 or less. The Application is open until August 31st, 23.59 CET.
 
 Spread the world about HackNow. For more information just have a look at the ["official website"](http://hacknow.org/), ["facebook page"](http://www.facebook.com/HackNow) and read the ["latest updates on twitter"](http://www.twitter.com/HackN0w).
-
-
-http://www.facebook.com/HackNow
-http://www.twitter.com/HackN0w
