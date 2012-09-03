@@ -1,5 +1,5 @@
 ---
-title: ! 'European Pirate Summit is Setting Sails Again – EPS ''12! '
+title: ! 'European Pirate Summit is Setting Sails Again – EPS ''12!'
 slug: european-pirate-summit-is-setting-sails-again-eps-12
 author: jan_kus
 published: true
