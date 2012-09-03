@@ -1,5 +1,5 @@
 ---
-title: #meetrailslove in September
+title: ! '#meetrailslove in September'
 slug: meetrailslove-in-september
 author: jakob_hilden
 published: true
