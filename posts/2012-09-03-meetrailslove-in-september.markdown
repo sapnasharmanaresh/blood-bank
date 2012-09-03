@@ -3,7 +3,7 @@ title: ! '#meetrailslove in September'
 slug: meetrailslove-in-september
 author: jakob_hilden
 published: true
-featured_image: http://farm3.staticflickr.com/2382/2179921774_08f8300c45.jpg
+featured_image: http://i.imgur.com/6PTET.jpg
 author_name: jakob
 author_email: jakob@railslove.com
 tags:
