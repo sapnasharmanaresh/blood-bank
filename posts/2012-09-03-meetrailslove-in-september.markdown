@@ -1,8 +1,9 @@
 ---
-title: ! '#meetrailslove in September'
+title: #meetrailslove in September
 slug: meetrailslove-in-september
 author: jakob_hilden
 published: true
+featured_image: http://farm3.staticflickr.com/2382/2179921774_08f8300c45.jpg
 author_name: jakob
 author_email: jakob@railslove.com
 tags:
@@ -11,7 +12,7 @@ tags:
   person: jakob_hilden
 ---
 
-Hello everybody, we are BACK -- after the August edition of <a href="https://twitter.com/#!/search/meetrailslove">#meetrailslove</a> had to be cancelled du to a severe Sommer condition.
+Hello everybody, we are BACK -- after the August edition of <a href="https://twitter.com/#!/search/meetrailslove">#meetrailslove</a> had to be cancelled due to a severe summer condition.
 
 And we have quite a bit of events for this month:
 
@@ -27,7 +28,7 @@ And we have quite a bit of events for this month:
 
 * **Kölsch.rb meets Django Usergroup (19.09.)**: Like every month the Cologne Ruby User Group meets for some very interesting discussions.  But this time we are trying something special, having a joint meetup with the Cologne Django Usergroup.  We are hoping for some great learnings when old rivals meet. For more information check out the <a href="http://www.colognerb.de/events/kolsch-rb-im-september-2012">Colognerb.de event page</a>
 
-* **Rails Girls Colgne (28. - 29.9.):** Most importantly this month the awesome Rails Girls series will come to Cologne, organized by our lovely Railslove Ladies Liane & Tatjana.  It's an event for girls (with no previous experience required) to start learning about the wonderful world of building web applications.  The vibe at past events in Berlin, Amsterdam or San Francisco has been just incredible and we are all looking forward to bringing it to Cologne.  More information at:  http://railsgirls.com/cologne
+* **Rails Girls Cologne (28. - 29.9.):** Most importantly this month the awesome Rails Girls series will come to Cologne, organized by our lovely Railslove Ladies Liane & Tatjana.  It's an event for girls (with no previous experience required) to start learning about the wonderful world of building web applications.  The vibe at past events in Berlin, Amsterdam or San Francisco has been just incredible and we are all looking forward to bringing it to Cologne.  More information at:  http://railsgirls.com/cologne
 
 
 For more events in Cologne, also check out this <a href="https://www.google.com/calendar/ical/1acgdsmu8ha2tigngms3drorko%40group.calendar.google.com/public/basic.ics">Google Calendar</a>, the awesome local hacker event site <a href="http://hcking.de/">hcking.de</a> or the droid-boy blogpost about this <a href="http://www.droid-boy.de/?p=2979" target="_blank">Power-Septemper</a>.
