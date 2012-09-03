@@ -15,11 +15,15 @@ Hello everybody, we are BACK -- after the August edition of <a href="https://twi
 
 And we have quite a bit of events for this month:
 
-* **Priate Summit 2012 (10. - 11.09.):** Railslove is proudly sponsoring Priate Summit the exclusive Startup Conference for all the web people in the area. http://piratesummit.com/
+* **Pirate Summit 2012 (10. - 11.09.):** Railslove is proudly sponsoring Pirate Summit the exclusive Startup Conference for all the web people in the area. http://piratesummit.com/
 
 * **Cologne JS (11.09.):** For all Javascript and Frontend Fanboyz. Starting at 19:30 at Coworking Cologne (Gasmotorenfabrik). <a href="http://colognejs.de/" target="_blank">Cologne.js website</a>
 
+* **hackanoon (12.09.):** Following the Pirate Summit there will a Hackanoon at Coworking Cologne were people hack on little project for one afternoon and then present them to each other.  Sign up at http://hackanoon.com/
+
 * **UX-CGN (12.09.)**:  Meeting of the local <a href="http://uxcgn.org/">UX Usergroup</a> at the Cologne agency People Interactive.
+
+* **DevHouse Friday (14.09.):** The DevHouse Friday is an interdisciplinary event for programmers of all languages and believes to share experiences and learn from each other.  http://devhousefriday.org/networks/events/show_event.64116
 
 * **Kölsch.rb meets Django Usergroup (19.09.)**: Like every month the Cologne Ruby User Group meets for some very interesting discussions.  But this time we are trying something special, having a joint meetup with the Cologne Django Usergroup.  We are hoping for some great learnings when old rivals meet. For more information check out the <a href="http://www.colognerb.de/events/kolsch-rb-im-september-2012">Colognerb.de event page</a>
 
