@@ -18,26 +18,22 @@
       },
       {
         "person": {
-          "slug": "lars_brillert",
-          "contact": true
+          "slug": "liane_thonnes"
         }
       },
       {
         "person": {
-          "slug": "jan_kus",
-          "contact": true
+          "slug": "lars_brillert"
         }
       },
       {
         "person": {
-          "slug": "stephan_pavlovic",
-          "contact": true
+          "slug": "jakob_hilden"
         }
       },
       {
         "person": {
-          "slug": "philipp_brumm",
-          "contact": true
+          "slug": "paul_wittmann"
         }
       }
     ],
