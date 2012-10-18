@@ -5,22 +5,7 @@ featured_image: https://img.skitch.com/20120903-r7eh19dteitiet5b1hbuxtgunp.jpg
 categories:
 - railslove on tour
 tags:
-  keyword: internetweek
-  keyword: cologne
-  keyword: events
-  keyword: piratesummit
-  keyword: devhousefriday
-  keyword: yoga  
-  keyword: conference
-  keyword: startups
-  keyword: eps
-  keyword: pirate
-  keyword: summit
-  keyword: arrr
-  keyword: salesking
-  keyword: javascript
-  keyword: usergroup
-  keyword: meetup  
+  keyword: internetweek, cologne, events, piratesummit, devhousefriday, yoga, conference, startups, eps, pirate, summit, arrr, salesking, javascript, usergroup, meetup  
 ---
 
 Besides the monthly events in our [#meetrailslove](http://railslove.com/blog/2012/09/03/meetrailslove-in-september) update for September there will be one big event this month: the [internetweek in Cologne](http://iwcgn.koeln.de/).

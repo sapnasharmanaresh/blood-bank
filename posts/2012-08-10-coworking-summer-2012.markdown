@@ -3,11 +3,7 @@ title: Coworking Summer 2012 - kostenlos Coworken und Wissensaustausch mit Rails
 author: jan_kus
 featured_image: http://getfile4.posterous.com/getfile/files.posterous.com/temp-2012-08-03/slpBddaEnfAeyGCEowjhyhfFBwzgcmbajEbAzaCfbjIgAbcuvcnjCDlDqfdG/deskmag-coworking-2647.jpeg.scaled1000.jpg
 tags:
-  keyword: cowoco
-  keyword: coworking cologne
-  keyword: office
-  keyword: summer
-  keyword: free coworking
+  keyword: cowoco, coworking-cologne, office, summer, free-coworking
 ---
 Damit der Sommer nicht komplett ins Wasser fällt, haben sich zehn deutsche Coworking Spaces zusammengetan und für ein bisschen Sonne gesorgt, sie bieten vom 1.8. bis 31.8.2012 Sonderangebote und Veranstaltungen, bei denen neue Leute die gemeinsamen Arbeitsräume und ihre Mitglieder kennenlernen können.
 

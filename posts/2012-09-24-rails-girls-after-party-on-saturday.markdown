@@ -5,13 +5,7 @@ featured_image: http://userserve-ak.last.fm/serve/_/67009780/malte+von+griesgram
 categories:
 - railslove on tour
 tags:
-  keyword: railsgirls
-  keyword: rails
-  keyword: girls
-  keyword: coding
-  keyword: party
-  keyword: afaik
-  keyword: malte von griesgram
+  keyword: railsgirls, rails, girls, coding, party, afaik, malte-von-griesgram
 ---
 
 As you already know ([Liane](http://railslove.com/liane_thoennes) & [Tatjana](http://railslove.com/tatjana_lajendaecker)) from [Rails Girls Cologne](http://railsgirls.com/cologne) are making exciting things happen next week! On Friday and Saturday will be a Rails Girls event - this time in our beautiful city Cologne.
