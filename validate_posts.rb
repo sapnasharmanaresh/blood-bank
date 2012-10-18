@@ -1,5 +1,6 @@
 require 'minitest/autorun'
 require 'active_support/inflector'
+require 'time'
 
 posts_path = File.join(File.dirname(File.expand_path(__FILE__)) , 'posts')
 required_attributes = %w(slug title person content)
@@ -19,7 +20,7 @@ describe 'posts' do
             :title          => yaml_data['title'],
             :person         => yaml_data['author'],
             :featured_image => yaml_data['featured_image'],
-            :published_at   => (yaml_data["published_at"] && ( Time.parse(yaml_data["published_at"].to_s) rescue nil )) || Time.now,
+            :published_at   => (yaml_data["published_at"] && Time.parse(yaml_data["published_at"].to_s)),
             :content        => $3,
             :keyword_list   => yaml_data.has_key?('tags') ? yaml_data['tags']['keyword'] : nil,
             :project_list   => yaml_data.has_key?('tags') ? yaml_data['tags']['project'] : nil,
