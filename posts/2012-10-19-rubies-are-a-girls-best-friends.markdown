@@ -1,6 +1,6 @@
+---
 title: Rubies are a girls best friends
-author: tatjana_lajendaecker
-featured_image:
+author: tatjana_lajendacker
 tags:
   keyword: railsgirls, rails, girls, coding, meetup
 ---
