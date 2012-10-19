@@ -29,4 +29,3 @@ On 6th of November we will have our first Rails Girls Cologne meet-up at [Gasmot
 or follow us on [twitter](@railsgirls_cgn)
 
 See you soon!
-
