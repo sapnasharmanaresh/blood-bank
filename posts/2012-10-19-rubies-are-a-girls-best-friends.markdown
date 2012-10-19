@@ -1,6 +1,7 @@
 ---
-title: Rubies are a girls best friends
+title: Rubies are a girl's best friends
 author: tatjana_lajendacker
+featured_image: http://farm9.staticflickr.com/8044/8102408871_3734570f6f.jpg
 tags:
   keyword: railsgirls, rails, girls, coding, meetup
 ---
@@ -29,4 +30,3 @@ or follow us on [twitter](@railsgirls_cgn)
 
 See you soon!
 
-Hier noch ein Link zum [Album:](http://www.flickr.com/photos/liane_thoennes/sets/72157631696377134/)
