@@ -29,4 +29,4 @@ or follow us on [twitter](@railsgirls_cgn)
 
 See you soon!
 
-Hier noch ein Link zum [Album:](http://www.flickr.com/photos/liane_thoennes/sets/72157631696377134/)
+Hier noch unser [Album](http://www.flickr.com/photos/liane_thoennes/sets/72157631696377134/)
