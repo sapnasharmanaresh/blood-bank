@@ -28,7 +28,7 @@ Before we all met again at the after party the attendees had the time to finish 
 
 ... but now, three weeks later we want more!
 On 6th of November we will have our first Rails Girls Cologne meet-up at [Gasmotorenfabrik](http://www.facebook.com/Gasmotorenfabrik?ref=ts&fref=ts). Coaches will be there to help us realize our own ideas and we‘ll start working our way through the [R‘o‘R Tutorial](http://ruby.railstutorial.org/) by Michael Hartl. Everyone is welcome, just join our google group https://groups.google.com/forum/?hl=de&fromgroups#!forum/rails-girls-cologne
-or follow us on [twitter](https://twitter.com/railsgirls_cgn)
+or follow us on [twitter](https://twitter.com/railsgirls_cgn).
 
 See you soon!
 
