@@ -3,7 +3,7 @@ title: "Medieninformatik Showcase 2012, thanks for having me."
 author: tim_schneider
 featured_image: http://f.cl.ly/items/3N2F050N0v3w1d443V3f/tim.jpg
 tags:
-  keyword: university, medieninformatik, showcase, fhkoeln, keynote, agile web development
+  keyword: university, medieninformatik, showcase, fhkoeln, keynote
 ---
 
 A few weeks ago I was invited to give this year's Keynote at the [Medieninformatik Showcase](http://www.medieninformatik.fh-koeln.de/website/mi_am_campu/others/showcase_105/de/de_showcase_univer_1.php), the introductory event for media informatics freshman students at [University of Applied Sciences Cologne](http://www.medieninformatik.fh-koeln.de/). "Should be something with web development and Web 2.0" – "Ahm, Web 2.0?! You've got to be k... well, okay, I'll do it &mdash; Railslove-style."
