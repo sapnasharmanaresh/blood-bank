@@ -22,3 +22,4 @@ tags:
 <p class="MsoNormal"><span lang="EN-US">If your team is looking for a space to work on your app and hang with other Rumblers feel free to join us at Coworking Cologne just give us a call or contact at <a href="mailto:team@railslove.com">team@railslove.com</a>. </span></p>
 <p class="MsoNormal"><span lang="EN-US">For more information about the space check out <a href="http://www.coworkingcologne.de">coworkingcologne.de</a>.</span></p>
 <p class="MsoNormal"><span lang="EN-US"> </span></p>
+
