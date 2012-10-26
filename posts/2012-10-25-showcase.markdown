@@ -1,5 +1,5 @@
 ---
-title: "Medieninformatik Showcase 2012, thanks for having me."
+title: Medieninformatik Showcase 2012, thanks for having me.
 author: tim_schneider
 featured_image: http://f.cl.ly/items/3N2F050N0v3w1d443V3f/tim.jpg
 tags:
