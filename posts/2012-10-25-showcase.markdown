@@ -1,16 +1,16 @@
 ---
 title: Medieninformatik Showcase 2012, thanks for having me.
 author: tim_schneider
-featured_image: http://f.cl.ly/items/3N2F050N0v3w1d443V3f/tim.jpg
+featured_image: http://f.cl.ly/items/3b123C031A1S1O0M3Z3V/622151_434498619930774_419557777_o%20(1).png
 tags:
   keyword: university, medieninformatik, showcase, fhkoeln, keynote
 ---
 
 A few weeks ago I was invited to give this year's Keynote at the [Medieninformatik Showcase](http://www.medieninformatik.fh-koeln.de/website/mi_am_campu/others/showcase_105/de/de_showcase_univer_1.php), the introductory event for media informatics freshman students at [University of Applied Sciences Cologne](http://www.medieninformatik.fh-koeln.de/). "Should be something with web development and Web 2.0" – "Ahm, Web 2.0?! You've got to be k... well, okay, I'll do it &mdash; Railslove-style."
 
-So I started working on my slides, set the focus to agility and pragmatic principles you should follow, when developing for the modern web and yesterday I finally gave my 45-min talk in front of a lecture hall full of students &mdash; and boy, that was great fun.
+So I started working on my slides, set the focus to agility and pragmatic principles you should follow, when developing for the modern web, and yesterday I finally gave my 45-min talk in front of a lecture hall full of students &mdash; and boy, that was great fun.
 
-It's a indeed a very fulfilling job to inspire freshman students and get them excited for web topics, and &mdash; on the other hand &mdash; to give almost-alumni one more job perspective and tell them a little from our start and problems as freelancers and young founders.
+It's indeed a very fulfilling job to inspire freshman students and get them excited for web topics, and &mdash; on the other hand &mdash; to give almost-alumni one more job perspective and tell them a little from our start and problems as freelancers and young founders.
 
 My slides are available [on Slideshare](http://de.slideshare.net/tmschndr/agile-anwendungsentwicklung-im-web-20), although it could be quite hard to follow them without comments.
 
