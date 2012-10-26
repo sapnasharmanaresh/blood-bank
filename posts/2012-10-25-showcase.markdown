@@ -1,7 +1,7 @@
 ---
 title: Medieninformatik Showcase 2012, thanks for having me.
 author: tim_schneider
-featured_image: http://f.cl.ly/items/3b123C031A1S1O0M3Z3V/622151_434498619930774_419557777_o%20(1).png
+featured_image: http://tim.sc/hneider/weblog/showcase.png
 tags:
   keyword: university, medieninformatik, showcase, fhkoeln, keynote
 ---
