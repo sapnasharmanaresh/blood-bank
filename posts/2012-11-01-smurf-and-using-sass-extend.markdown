@@ -1,5 +1,5 @@
 ---
-title: SMACSS and SASS - The future of stylesheets
+title: About SMURF and using Sass @extend
 slug: smurf-and-using-sass-extend
 author: jakob_hilden
 featured_image: http://farm8.staticflickr.com/7261/7731744988_e2c0176b25_z.jpg
@@ -63,7 +63,7 @@ Because, creating a new submodule for every different context or use case proved
 
 ### Submodules
 
-As just said, they describe different versions of a module for another context (e.g. <code>.m-module_sidebar</code>) or use case (e.g. <code>.m-module_attention</code>).
+As just said, they describe different versions of a module for another context (e.g. <code>.m-module_sidebar</code>) or use case (e.g. <code>.m-module\_attention</code>).
 
 
 So a full-blown SMURF code example would look something like this:
@@ -75,7 +75,7 @@ The advantages of writing CSS (or Sass) this way are the following:
 * you can infer something about the semantic of a selector just by its name & syntax
 * styles have a much better defined (single) responsibility
 * you make sure that styles only apply where they should
-* you can suddenly safely and nachvollziehbar share and inhert styles to DRY up your CSS and improve maintainability
+* you can suddenly safely and comprehensibly share and inhert styles to DRY up your CSS and improve maintainability
 
 
 ## The right usage of Sass' <code>@extend</code> (and placeholder selector)
@@ -119,7 +119,7 @@ Because when you also use the extendend module in other places, like:
 
 It will copy the complete(!) extending selector (<code>.m-form .m-form--button</code>) anywhere(!) you used the extended selector (<code>.m-button</code>).  This will slow down your Sass compilation and create unnecessary CSS bloat at the least and might even break your design in a very hard to debug way.  If you are very careful and strict with using your modules you could get away with this, but especially in a team setting the risk is way too high.
 
-following extends ???
+It becomes especially problematic and incomprehensible when the extende selector is also extending another selector itself.  For that refer to teh Sass docs about chaing extends [chaining extends](http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#chaining_extends).
 
 For example we had the case where somebody extended some basic, ubiquous class from Twitter's bootstrap and immediately crashed our Sass stylesheet. Compiling it went from under a minute to 9 minutes.
 
