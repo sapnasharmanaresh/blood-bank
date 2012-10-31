@@ -9,11 +9,11 @@ tags:
 ---
 We're very proud to present our latest client work - [Adcloud Spaces](http://spaces.adcloud.com).
 
-Adcloud Spaces is a tool for small businesses to create and manage their online advertisting campaigns. In an easy three step process you choose an image for your ad, crop it to a nice format and set up you budget. If you like, you could target only specific geographical regions or restrict the websites your ad is shown on with some global topics.
+Adcloud Spaces is a tool for small businesses to create and manage their online advertisment campaigns. In an easy three step process you choose an image for your ad, crop it to a nice format and set up you budget. If you like, you could target only specific geographical regions or restrict the websites your ad is shown on with some global topics.
 
 ![Adcloud Spaces Screenshot](http://i.imgur.com/fsjrO.png)]
 
-After that your ready to go and you campaign can be out there after a few minutes. While your advertising is running, you can monitor their performance and adjust the pricing or the targeting, if you are not happy with it.
+After that your ready to go and you campaign can be out there after a few minutes. While your campaign is running, you can monitor their performance and adjust the pricing or the targeting, if you are not happy with it.
 
 Development Process
 -------------------
