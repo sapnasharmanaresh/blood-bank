@@ -2,15 +2,16 @@
 title: Adcloud Spaces Launch
 author: stephan_pavlovic
 featured_image: http://i.imgur.com/i8rUU.png
+published: false
 tags:
   keyword: adcloud
   keyword: clients
   keyword: launch
-  
+
 ---
 We're very proud to present our latest client work - [Adcloud Spaces](http://spaces.adcloud.com).
 
-Adcloud Spaces is a tool for small businesses to create and manage their online advertisting campaigns. In an easy three step process you choose an image for your ad, crop it to a nice format and set up you budget. If you like, you could target only specific cities or regions and restrict the website your ad is shown on with some global topics. 
+Adcloud Spaces is a tool for small businesses to create and manage their online advertisting campaigns. In an easy three step process you choose an image for your ad, crop it to a nice format and set up you budget. If you like, you could target only specific cities or regions and restrict the website your ad is shown on with some global topics.
 
 ![Adcloud Spaces Screenshot](http://i.imgur.com/fsjrO.png)]
 
@@ -27,7 +28,7 @@ Adcloud Spaces was developed in parallel to the Adcloud API, that will be public
 
 ### Back end
 * Ruby on Rails 3.2
-* Mysql 
+* Mysql
 
 ### Front end
 * HAML
