@@ -40,28 +40,28 @@ However, in this blogpost I want to concentrate on the concrete implementation o
 SMACSS introduces the concepts of modules, module components, states and submodules.  However, it doesn't really say too much about the actual coding conventions for these so SMURF tries fill that "gap" by establishing some clear coding guidelines:
 
 
-#### Modules are prefixed with <code>.m-</code>
+### Modules are prefixed with <code>.m-</code>
 
 This clearly differentiates parts of your CSS that are carefully designed for reuse from layout styles (using <code>.l-</code>), legacy code, libraries, and other non-modular CSS.
 
 
-#### Module components use a <code>--</code> syntax while submodules use <code>_</code>
+### Module components use a <code>--</code> syntax while submodules use <code>_</code>
 
 Both module components and submodules start with the name of their modules, so the two syntaxes are used to differentiate the two:  <code>.m-module--component</code>, <code>.m-module_submodule</code>
 
 The double dash is important if you use compound module names such as "list-item", to keep module name <code>.m-list-item</code> and component <code>--header</code>
 
 
-#### States
+### States
 
 States are prefixed with <code>.is-</code> just as in SMACSS.
 
 
-#### Module modifiers
+### Module modifiers
 
 Because, creating a new submodule for every different context or use case proved to be kind of overkill, SMURF introduced "module modifiers".  They are something in between states and submodules.  They are defined in the same way as states, as an additional class on the root module <code>&.modifier</code>, but, just as a submodule, they describe a slightly different version of the module.  Examples would be things like <code>.m-module.right</code>, <code>.m-module.no-border</code>.  The idea is to use modifiers for little chainable changes to modules, which submodules are used for more "substantial" changes, that for example also affect components.
 
-#### Submodules
+### Submodules
 
 As just said, they describe different versions of a module for another context (e.g. <code>.m-module_sidebar</code>) or use case (e.g. <code>.m-module_attention</code>).
 
@@ -82,7 +82,7 @@ The advantages of writing CSS (or Sass) this way are the following:
 
 A central element of the modularization of your CSS is Sass' <code>@extend</code> funcionality.
 
-First of all it allows you to inherit styles from modules to submodules without unnecessarily blowing up your HTML.  In SMCASS (and e.g. in Twitter Bootstrap) you need to apply both classes to our element (<code>&lt;div class="m-module m-module_submodule"&gt;</code>), while in SMURF you can just do (<code>&lt;div class="m-module_submodule"&gt;</code>).
+First of all it allows you to inherit styles from modules to submodules without unnecessarily blowing up your HTML.  In SMCASS (and e.g. in Twitter Bootstrap) you need to apply both classes to our element (<code>&lt;div class="m-module m-module\_submodule"&gt;</code>), while in SMURF you can just do (<code>&lt;div class="m-module\_submodule"&gt;</code>).
 
 Another option for inheritance in Sass would be to use <code>@mixins</code>.  However, the big advantage of <code>@extend</code> is that it's not unnecessarily duplicating your CSS output.
 
