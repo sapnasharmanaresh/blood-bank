@@ -26,7 +26,7 @@ tags:
 ---
 # About SMURF and using Sass @extend
 
-Back in March I attended a SMACSS workshop by Jonathan Snook and wrote a blogpost about the "Future of Stylesheets" with some thoughts on implementing the SMACSS approach using the Sass preprocessor language.  Well the story didn't end there this topic is still very hot for me.  At Railslove we have ever since been codifying our SMACSS+Sass+Rails ideas in the form of SMURF (**S**calable, **M**odular, re**U**sable **R**ails **F**rontends) and with the recent release of Sass 3.2 the possibilities have gotten even greater.
+Back in March I attended a SMACSS workshop by Jonathan Snook and wrote a blogpost about the ["Future of Stylesheets"](/blog/2012/03/28/smacss-and-sass-the-future-of-stylesheets) with some thoughts on implementing the SMACSS approach using the Sass preprocessor language.  Well the story didn't end there this topic is still very hot for me.  At Railslove we have ever since been codifying our SMACSS+Sass+Rails ideas in the form of SMURF (**S**calable, **M**odular, re**U**sable **R**ails **F**rontends) and with the recent release of Sass 3.2 the possibilities have gotten even greater.
 
 This blogpost is intended to give an overview of the current state of SMURF and the particular aspect of the usage of Sass' <code>@extend</code>.
 
@@ -82,7 +82,7 @@ The advantages of writing CSS (or Sass) this way are the following:
 
 A central element of the modularization of your CSS is Sass' <code>@extend</code> funcionality.
 
-First of all it allows you to inherit styles from modules to submodules without unnecessarily blowing up your HTML.  In SMCASS (and e.g. in Twitter Bootstrap) you need to apply both classes to our element (<code><div class="m-module m-module_submodule"></code>), while in SMURF you can just do (<code><div class"m-module_submodule"></code>).
+First of all it allows you to inherit styles from modules to submodules without unnecessarily blowing up your HTML.  In SMCASS (and e.g. in Twitter Bootstrap) you need to apply both classes to our element (<code>&lt;div class="m-module m-module_submodule"&gt;</code>), while in SMURF you can just do (<code>&lt;div class="m-module_submodule"&gt;</code>).
 
 Another option for inheritance in Sass would be to use <code>@mixins</code>.  However, the big advantage of <code>@extend</code> is that it's not unnecessarily duplicating your CSS output.
 
@@ -149,7 +149,11 @@ Awesome isn't it?  Through placeholder selectors we now have a CSS code reusage/
 * doesn't produce bloated CSS output
 
 
-If you want to know more about SMURF I recommend you to go watch my presentation at the awesome [ArrrCamp 6](http://arrrrcamp.be) in Belgium in October:  [Video with slides](https://vimeo.com/51903907), [Slides only](http://smurf-presentation.herokuapp.com/)
+If you want to know more about SMURF I recommend you to go watch my presentation at the awesome [ArrrCamp 6](http://arrrrcamp.be) in Belgium in October:
+
+* [Video recording with slides](https://vimeo.com/51903907)
+* [Presentation slides only](http://smurf-presentation.herokuapp.com/)
+
 
 Besides that, check out our [Smurfville Github repository] that has some more info about SMURF coding conventions in the wiki and the Smurfville gem, which is trying to build a "living styleguide" base upon those coding conventions.  But that's a story for another blogpost.  Only that much:  We are looking for people to contribute to both the SMURF coding conventions and the Smurfville gem.  So, happy forking, and really looking forward to hear all your feedback.
 
