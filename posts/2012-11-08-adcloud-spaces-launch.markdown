@@ -25,7 +25,7 @@ This project was one of the first times we agreed on only committing small bug f
 API
 -----------
 
-Adcloud Spaces was developed alongside the new Adcloud API, which will be public soon.As Lars is part of the Adcloud API team, we were able to work really close with them. Spaces will be the first user of this API, so before we could start using it, our first step was to develop a gem, that wraps the API.
+Adcloud Spaces was developed alongside the new Adcloud API, which will be public soon. As Lars is part of the Adcloud API team, we were able to work really close with them. Spaces will be the first user of this API, so before we could start using it, our first step was to develop a gem, that wraps the API and makes it easy to use in a rails application.
 
 With the current release of the gem you can do basic creation of campaigns, ads and attachments. Furthermore you can get performance data of your campaigns like clicks, costs and conversions.
 
