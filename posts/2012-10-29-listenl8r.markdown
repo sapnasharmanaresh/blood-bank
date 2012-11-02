@@ -1,0 +1,26 @@
+---
+title: Introducing listen l8r – a great way to bookmark audio files on the web
+author: tim_schneider
+featured_image: http://tim.sc/hneider/weblog/listenl8r.png
+tags:
+  keyword: private, podcast, feed, audio, bookmark, music, radio, bytefm
+---
+
+Want to add audio files from the web to a private podcast feed? Try [listen l8r](http://listenl8r.eu).
+
+![](http://tim.sc/hneider/weblog/listenl8r_small.png)
+
+Last weekend, when I was browsing [ByteFM](http://byte.fm/)'s online archive, I thought, the recordings they offer are outstanding und unique, but listening to them is actually no fun, because a) their web player is built with flash ('nuff said) and b) their iOS app has serious UI issues, when it comes to finding archived shows in a 3 kilometers long table view of all their shows. Man, how cool would it be to get only my favorites shows like [Soulsearching](http://www.byte.fm/sendung/soulsearching), [Out of Spectrum](http://www.byte.fm/sendung/out-of-spectrum) or [Karamba](http://www.byte.fm/sendung/karamba) as a podcast feed I could subscribe to with [Instacast](http://vemedio.com/products/instacast)?
+
+As a snoopy developer I've figured out in a hurry that the mp3 files they use with their flash player are available via a public url (I'm not gonna tell any details, don't ask!). So, basically it's all there.
+
+One #lazytweet later I've found [huffduffer](http://huffduffer.com/), which kinda solves the problem: Find links to audio files on the web, add them to your podcast, subscribe.
+But huffduffer has decided to make every feed public, so that others could subscribe to them, too. But ByteFM's shows aren't public for everybody, only [Friends of ByteFM](https://byte.fm/freunde) are allowed to listen to them, so I couldn't use that service since I would reveal and serve their files to the public.
+
+And then [Rafael's tweet](https://twitter.com/chiefsucker/statuses/262151625328709632) got me thinking and finally started my weekend hack project: It shouldn't be too hard to build a service like that yourself.
+
+Two minimalistic models, two simplest controllers and one heroku deployment later, [listen l8r](http://www.listenl8r.eu/) was born: One easy web service to create *private* podcast feeds, add audio files from the web and subscribe to them via atom. Built, deployed and used successfully with Instacast in less than 4 hours with Rails, PostgreSQL and [uuidtools](https://github.com/sporkmonger/uuidtools) for a great Sign-up-free experience.
+
+Go, try it yourself at [listenl8r.eu](http://www.listenl8r.eu/), it's free to use and it's available [Open Source on GitHub](https://github.com/railslove/listenl8r). Follow [@ll8r on Twitter](http://twitter.com/ll8r) for feature requests and give us your feedback!
+
+If you like it, become a [Friend of ByteFM](https://byte.fm/freunde) and support this fantastic radio station.
