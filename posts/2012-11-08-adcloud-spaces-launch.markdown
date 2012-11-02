@@ -33,25 +33,11 @@ Naturally, we wanted to display the chosen regions on a map, so wet set out to b
 
 The main challenge we had was finding high-quality sources of easily importable shape data. After trying out geonames.org at first, we quickly settled on natural earth's amazing collection of free shape data, which we imported through their Google fusion tables.
 
+![Adcloud Spaces Map Screenshot](http://i.imgur.com/i8rUU.png)
+
 The country selection is driven by a collection of select2.js select boxes which loads the regions' shape data and displays it on a Google Map. We initially used chosen.js, but it proved to be too limited, which caused us to hack it into submission, and in the end, drop it completely.
 
 Javascript
 ----------
 
 All our interaction concepts are event-driven. We are using a very thin wrapper around the jQuery event API, which allows us to use it as a pub/sub system. Components are wrapped in Coffeescript classes which emit events that are picked up by whoever needs to react to events. That way, we avoid the dreaded callback pyramid and can separate out concerns.
-
-### Back end
-* Ruby on Rails 3.2
-* Mysql
-
-### Front end
-* HAML
-* SASS (SASS syntax)
-* CoffeeScript
-* jQuery
-* [Compass](http://compass-style.org)
-* [SMURF](https://github.com/railslove/smurfville/wiki)
-
-### Services
-* [WebTranslateIt](https://webtranslateit.com)
-* Adcloud Api
