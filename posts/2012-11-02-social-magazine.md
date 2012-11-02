@@ -17,7 +17,7 @@ An issue of Social Magazine consists of profesionally edited articles, published
 For German speakers, here's a video introducing the idea behind Social Magazine and summarising its benefits:
 <iframe width="560" height="315" src="http://www.youtube.com/embed/1dzbhKD3x3E" frameborder="0" allowfullscreen></iframe>
 
-This August, after six months of planning and development, a first-stage version of Social Magazine was launched for Continental (_conti intern - Automotive online_). The reactions so far have been very positive; two more stages are in the making and further instances are planned. _Conti intern_ has just been [shortlisted](http://www.hr-excellence-awards.de/shortlist) for the Human
+This August, after six months of planning and development, a first-stage version of Social Magazine was launched for Continental (_conti intern - Automotive online_). The reactions so far have been very positive; two more stages are in the making and further instances are planned. _Conti intern_ has even been [shortlisted](http://www.hr-excellence-awards.de/shortlist) for the Human
 Resources Excellence Awards 2012.
 
 To learn more about Social Magazine, please visit [www.social-magazine.info](http://www.social-magazine.info), or contact us directly at: [team@railslove.com](mailto:team@railslove.com).
