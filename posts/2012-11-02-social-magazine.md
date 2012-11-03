@@ -25,7 +25,7 @@ To learn more about [Social Magazine](http://www.social-magazine.info) or to sch
 Development
 -----------
 
-[Kuhn, Kammann &amp; Kuhn](http://www.kkundk.de) created the conceptual as well as the page design. Most of the initial code was written by [Michael](http://railslove.com/team/michael_bumann) and [me](http://railslove.com/team/paul_wittmann). We're currently pushing the project ahead in a team of three - [Jakob](http://www.railslove.com/team/jakob_hilden), [Marco](http://www.railslove.com/team/marco_schaden), and [myself](http://railslove.com/team/paul_wittmann).
+[Kuhn, Kammann &amp; Kuhn](http://www.kkundk.de) created the conceptual as well as the page design. Most of the initial code was written by [Michael](http://railslove.com/team/michael_bumann) and [me](http://railslove.com/team/paul_wittmann). We're currently pushing the project ahead in a team of three - [Jakob](http://www.railslove.com/team/jakob_hilden), [Marco](http://www.railslove.com/team/marco_schaden), and [myself](http://railslove.com/team/paul_wittmann) - in close collaboration with [Kuhn, Kammann &amp; Kuhn's](http://www.kkundk.de) [Claudia Mislin](http://www.kkundk.de/page/92-claudia-mislin).
 _Conti intern_ was deployed via VPN to Continental's intranet.
 
 [Social Magazine](http://www.social-magazine.info) was built with the following components:
