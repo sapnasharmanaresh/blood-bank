@@ -4,7 +4,7 @@ author: stephan_pavlovic
 featured_image: http://i.imgur.com/i8rUU.png
 published: false
 tags:
-  keyword: adcloud, clients, launch
+  keyword: adcloud, client, launch
 
 ---
 We're very proud to present our latest client work - [Adcloud Spaces](http://spaces.adcloud.com).
@@ -18,9 +18,9 @@ After that you're ready to go and your campaign can be out there after a few min
 Development Process
 -------------------
 
-Max, Philipp, Schorsch, Jan and I were the core developer team of Adcloud Spaces and were supported by Liane, who did the initial design and helped with UI questions along the way. We worked closely with Verena Würbel, who was the project owner on the Adcloud side of things. With weekly sprints and daily standups, the organizational procedure was pretty normal.
+[Max](http://railslove.com/team/maximilian_schulz), [Philipp](http://railslove.com/team/philipp_brumm/), [Schorsch](http://railslove.com/team/georg_leciejewski/), [Jan](http://railslove.com/team/jan_kus/) and [I](http://railslove.com/team/stephan_pavlovic/) are the core developer team of Adcloud Spaces and were supported by Liane, who did the initial design and helped with UI questions along the way. We worked closely with Verena Würbel, who was the project owner on the Adcloud side of things. With weekly sprints and daily standups, the organizational procedure was pretty normal.
 
-This project was one of the first times we agreed on only committing small bug fixes to master while every feature was developed strictly in a separate branch. After a feature landed, a pull request was created, which then got reviewed, criticized or even praised.
+This project was one of the first times we agreed on using the [Github Flow](http://scottchacon.com/2011/08/31/github-flow.html), which means we are only committing small bug fixes to master while every feature was developed strictly in a separate branch. After a feature landed, a pull request was created, which then got reviewed, criticized or even praised. The integration of [Travis CI Pro](https://magnum.travis-ci.com/) into Github is a big help for this. Using this approach the master stays deployable all the time and anything that is ready can immediadtly go to staging for a customer review.
 
 API
 -----------
@@ -46,3 +46,18 @@ Javascript
 ----------
 
 All our interaction concepts are event-driven. We are using a very thin wrapper around the jQuery event API, which allows us to use it as a pub/sub system. Components are wrapped in Coffeescript classes which emit events that are picked up by whoever needs to react to events. That way, we avoid the dreaded callback pyramid and can separate out concerns.
+
+
+### Backend
+* [Rails 3.2](http://rubyonrails.org)
+* [Mysql](http://www.mysql.de/)
+* [Carrierwave](https://github.com/jnicklas/carrierwave)
+* [Kaminari](https://github.com/amatsuda/kaminari)
+* [Css Splitter](https://github.com/zweilove/css_splitter)
+
+### Frontend
+* [HAML](http://haml.info)
+* [Compass](http://compass-style.org)
+* [Smurfville SASS conventions](https://github.com/railslove/smurfville)
+* [CoffeeScript](http://coffeescript.org)
+* [Twitter Bootstrap](http://twitter.github.com/bootstrap)
