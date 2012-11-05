@@ -18,7 +18,7 @@ After that you're ready to go and your campaign can be out there after a few min
 Development Process
 -------------------
 
-[Max](http://railslove.com/team/maximilian_schulz), [Philipp](http://railslove.com/team/philipp_brumm/), [Schorsch](http://railslove.com/team/georg_leciejewski/), [Jan](http://railslove.com/team/jan_kus/) and [I](http://railslove.com/team/stephan_pavlovic/) are the core developer team of Adcloud Spaces and were supported by Liane, who did the initial design and helped with UI questions along the way. We worked closely with Verena Würbel, who was the project owner on the Adcloud side of things. With weekly sprints and daily standups, the organizational procedure was pretty normal.
+[Max](http://railslove.com/team/maximilian_schulz), [Philipp](http://railslove.com/team/philipp_brumm/), [Schorsch](http://railslove.com/team/georg_leciejewski/), [Jan](http://railslove.com/team/jan_kus/) and [I](http://railslove.com/team/stephan_pavlovic/) are the core developer team of Adcloud Spaces and were supported by [Liane](http://railslove.com/team/liane_thonnes/), who did the initial design and helped with UI questions along the way. We worked closely with Verena Würbel, who was the project owner on the Adcloud side of things. With weekly sprints and daily standups, the organizational procedure was pretty normal.
 
 This project was one of the first times we agreed on using the [Github Flow](http://scottchacon.com/2011/08/31/github-flow.html), which means we are only committing small bug fixes to master while every feature was developed strictly in a separate branch. After a feature landed, a pull request was created, which then got reviewed, criticized or even praised. The integration of [Travis CI Pro](https://magnum.travis-ci.com/) into Github is a big help for this. Using this approach the master stays deployable all the time and anything that is ready can immediadtly go to staging for a customer review.
 
@@ -36,7 +36,7 @@ Adcloud Spaces enables you to book an ad for a whole country or specific regions
 
 Naturally, we wanted to display the chosen regions on a map, so wet set out to build a database of locations available for booking ads. Fortunately, the advertising world runs on a semi-standard list provided by acuity.
 
-The main challenge we had was finding high-quality sources of easily importable shape data. After trying out geonames.org at first, we quickly settled on natural earth's amazing collection of free shape data, which we imported through their Google fusion tables.
+The main challenge we had was finding high-quality sources of easily importable shape data. After trying out [Geonames](geonames.org) at first, we quickly settled on natural earth's amazing collection of free shape data, which we imported through their Google fusion tables.
 
 ![Adcloud Spaces Map Screenshot](http://i.imgur.com/i8rUU.png)
 
