@@ -19,7 +19,9 @@ By allowing readers to individually remix and enrich editorial content, [Social 
 The decisive advantage of [Social Magazine](http://www.social-magazine.info) is that it accommplishes all the above without really shifting the focus away from the editorial content. The key is in its hybrid structure - it's held up by a firm and solid skeleton of quality editorial content that's enlivened by a constant stream of contributions from its active user base.
 
 For German speakers, here's a video introducing the idea behind [Social Magazine](http://www.social-magazine.info) and summarising its benefits:
-<iframe width="560" height="315" src="http://www.youtube.com/embed/1dzbhKD3x3E" frameborder="0" allowfullscreen style="margin:10px auto"></iframe>
+<div style="text-align:center">
+<iframe width="560" height="315" src="http://www.youtube.com/embed/1dzbhKD3x3E" frameborder="0" allowfullscreen></iframe>
+</div>
 
 This August, after six months of planning and development, a first-stage version of [Social Magazine](http://www.social-magazine.info) was launched for Continental (_conti intern Automotive online_). The reactions so far have been very positive; two more stages are in the making and further instances are planned. _conti intern Automotive online_ has even been [shortlisted](http://www.hr-excellence-awards.de/shortlist) for the Human Resources Excellence Awards 2012.
 
