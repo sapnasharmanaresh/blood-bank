@@ -2,7 +2,6 @@
 title: Social Magazine - Fresh Publishing Platform for Enterprise 2.0
 author: paul_wittmann
 featured_image: http://i.imgur.com/tEmD3.png
-published: false
 tags:
   keyword: enterprise-2-0, corporate-publishing, social-media
 ---
