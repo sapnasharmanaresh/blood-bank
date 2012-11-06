@@ -7,6 +7,8 @@ tags:
   keyword: enterprise-2-0, corporate-publishing, social-media
 ---
 
+![http://i.imgur.com/epJSM.jpg]
+
 Much like traditional newspapers, corporate in-house magazines are struggling to find effective ways to present their content online and to engage their readership. The biggest challenge seems to be to strike a good balance between Web 2.0's social media and existing print issues.
 
 Some in-house magazine's website is nothing but a stale digitised copy of the paper version. Although social media could help a lot to enrich these sites, their editors remain hesitant to embrace them. They've seen the trouble that can arise when corporations carelessly try to harness social media for marketing - Shell's [Arctic Ready campaign](http://arcticready.com/social/gallery) is an extreme example - and have decided to shun them altogether until better news arrive.<br>
