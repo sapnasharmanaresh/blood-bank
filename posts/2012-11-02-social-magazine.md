@@ -22,7 +22,7 @@ For German speakers, here's a video introducing the idea behind [Social Magazine
 <iframe width="560" height="315" src="http://www.youtube.com/embed/1dzbhKD3x3E" frameborder="0" allowfullscreen></iframe>
 </div>
 
-An issue of [Social Magazine](http://www.social-magazine.info) consists of profesionally edited articles, published at the same time as the print issue, and short articles, published in real time. Readers can like, tag, recommend, or comment on articles and short articles. But what's more is that they can compile articles to their personal issues, which can be published and shared on the platform. Subscribers of a user's issue can see personal article annotations.
+An issue of [Social Magazine](http://www.social-magazine.info) consists of professionally edited articles, published at the same time as the print issue, and short articles, published in real time. Readers can like, tag, recommend, or comment on articles and short articles. But what's more is that they can compile articles to their personal issues, which can be published and shared on the platform. Subscribers of a user's issue can see personal article annotations.
 By allowing readers to individually remix and enrich editorial content, [Social Magazine](http://www.social-magazine.info) fundamentally changes the role of its audience from passive readers to active participants engaged in dialogue. It thereby entices employees like never before to get involved with their company and shape their own corporate news.<br>
 The decisive advantage of [Social Magazine](http://www.social-magazine.info) is that it accomplishes all the above without really shifting the focus away from the editorial content. The key lies in its hybrid structure - it's held up by a firm and solid skeleton of quality editorial content that's enlivened by a constant stream of contributions from its active user base.
 
@@ -40,14 +40,14 @@ _conti intern Automotive online_ was deployed via VPN to Continental's intranet.
 
 [Social Magazine](http://www.social-magazine.info) was built with the following components:
 
-### Backend
+### Back End
 * [Rails 3.2](http://rubyonrails.org)
 * [MongoDB](http://www.mongodb.org) &amp; [Mongoid](http://two.mongoid.org)
 * [Elasticsearch](http://www.elasticsearch.org) &amp; [Tire](https://github.com/karmi/tire)
 * [Carrierwave](https://github.com/jnicklas/carrierwave)
 * [Kaminari](https://github.com/amatsuda/kaminari)
 
-### Frontend
+### Front End
 * [HAML](http://haml.info)
 * [Compass](http://compass-style.org)
 * [Smurfville SASS conventions](https://github.com/railslove/smurfville)
