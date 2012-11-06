@@ -8,7 +8,7 @@ tags:
 ---
 
 
-Much like traditional newspapers, corporate in-house magazines are struggling to find effective ways to present their content online and to engage their readership. The biggest challenge seems to be to strike a good balance between Web 2.0's social media and existing print issues.
+Much like traditional newspapers, corporate in-house magazines are struggling to find effective ways to present their content online and to engage their readership. The biggest challenge seems to strike a good balance between Web 2.0's social media and existing print issues.
 
 ![Social Magazine screenshot](http://i.imgur.com/epJSM.jpg)
 
