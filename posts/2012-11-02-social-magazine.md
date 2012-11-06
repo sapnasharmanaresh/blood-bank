@@ -7,7 +7,7 @@ tags:
   keyword: enterprise-2-0, corporate-publishing, social-media
 ---
 
-![http://i.imgur.com/epJSM.jpg]
+![Social Magazine screenshot](http://i.imgur.com/epJSM.jpg)
 
 Much like traditional newspapers, corporate in-house magazines are struggling to find effective ways to present their content online and to engage their readership. The biggest challenge seems to be to strike a good balance between Web 2.0's social media and existing print issues.
 
