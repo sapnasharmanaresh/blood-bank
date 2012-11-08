@@ -94,7 +94,7 @@ In this example you can see that, if we would simply give our component a generi
 This might seem very strict and verbose on first sight, but especially in a larger team setting it becomes invaluable.
 
 <div class="sidenote">
-  <p>One little comment on <strong>nesting Sass</stron></p>
+  <p>One little comment on <strong>nesting Sass</strong></p>
 
   <p>After some back and forth I concluded that I prefer to nest/indent all the styles belonging to a module.  This is not technically necessary, because we are already using the module namespacing, but I still like the visual closure and hierachy that it gives my Sass code.  I think the slightly more complex selectors in the compiled CSS can be ignored and you simply need to be careful not to nest more than 2-3 levels down.</p>
 </div>
@@ -166,7 +166,9 @@ In summary, the advantages of writing CSS (or Sass) the SMURF way are the follow
 * you make sure that styles only apply where they should
 * you can suddenly safely and comprehensibly share and inherit styles to DRY up your CSS and improve maintainability
 
-FYI: Besides single responsibility, SMURF also improves on some other parts of the SOLID principles as was outlined in this recommendable [blogpost](http://blog.millermedeiros.com/solid-css/).
+<div class="sidenote">
+  <p><strong>FYI</strong>: Besides single responsibility, SMURF also improves on some other parts of the SOLID principles as was outlined in this recommendable [blogpost](http://blog.millermedeiros.com/solid-css/).</p>
+</div>
 
 
 # II) The right usage of Sass' <code>@extend</code> (and placeholder selectors)
