@@ -270,7 +270,8 @@ CSS output
   float: right;
 }
 
-.l-sidebar .m-button, .l-sidebar .m-button_attention, .l-sidebar .m-form .m-form--submit, .m-form .l-sidebar .m-form--submit {
+.l-sidebar .m-button, .l-sidebar .m-button_attention,
+.l-sidebar .m-form .m-form--submit, .m-form .l-sidebar .m-form--submit {
   border-color: green;
 }
 ```
