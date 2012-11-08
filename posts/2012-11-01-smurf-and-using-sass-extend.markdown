@@ -4,36 +4,18 @@ slug: smurf-and-using-sass-extend
 author: jakob_hilden
 featured_image: http://farm8.staticflickr.com/7261/7731744988_e2c0176b25_z.jpg
 published: false
-author_name: jakob
-author_email: jakob@railslove.com
-categories:
-- sass
-- railslove
-- rails
-- oss
-- css
-- smurf
+published_at: 2012-11-09
 tags:
-  keyword:
-  - smacss
-  - sass
-  - css
-  - stylesheets
-  - frontend
-  - modular
-  - conventions
-  - smurf
+  keyword: smacss, sass, railslove, rails, oss, css, smurf, stylesheets, frontend, modular, conventions
+  person: jakob_hilden, stephan_pavlovic, tim_schneider
 ---
-
-
-# About SMURF and using Sass @extend
 
 The first part of this blogpost gives you an overview on "**SMURF**", which stands for **S**calable, **M**odular, re**U**sable **R**ails **F**rontends and is our effort to implement the SMACSS approach using Sass (& Rails). The second part is about the lessons we learned along our way about the sensible usage of Sass' powerful but dangerous <code>@extend</code> functionality.
 
 Back in March I attended a SMACSS workshop by Jonathan Snook ([@snookca](https://twitter.com/snookca)) and wrote a blogpost about the ["Future of Stylesheets"](/blog/2012/03/28/smacss-and-sass-the-future-of-stylesheets) with my first thoughts on implementing the [SMACSS](http://smacss.com) approach using the [Sass preprocessor language](http://sass-lang.com).  Well, the topic has kept us busy for all the time since and and this "Future of Stylesheets" has now actually started to be codified in the form of SMURF and we have gained some valuable experience from using it in our first projects.
 
 
-## I)  What is SMURF?
+# I)  What is SMURF?
 
 SMURF basically consists of two things:  firstly, it's a set of coding conventions for writing SMACSS-style CSS modules using Sass, and secondly it's a Ruby gem called ["Smurfville"](https://github.com/railslove/smurfville) which helps you to generate "living styleguides" based on your SMURF-following Sass code.  However, in this post we will mostly talk about the coding conventions that are designed to lead to better, more modular frontends.
 
@@ -112,9 +94,9 @@ In this example you can see that, if we would simply give our component a generi
 This might seem very strict and verbose on first sight, but especially in a larger team setting it becomes invaluable.
 
 <div class="sidenote">
-One little comment on **nesting Sass**
+  <p>One little comment on <strong>nesting Sass</stron></p>
 
-After some back and forth I concluded that I prefer to nest/indent all the styles belonging to a module.  This is not technically necessary, because we are already using the module namespacing, but I still like the visual closure and hierachy that it gives my Sass code.  I think the slightly more complex selectors in the compiled CSS can be ignored and you simply need to be careful not to nest more than 2-3 levels down.
+  <p>After some back and forth I concluded that I prefer to nest/indent all the styles belonging to a module.  This is not technically necessary, because we are already using the module namespacing, but I still like the visual closure and hierachy that it gives my Sass code.  I think the slightly more complex selectors in the compiled CSS can be ignored and you simply need to be careful not to nest more than 2-3 levels down.</p>
 </div>
 
 <!--
@@ -187,7 +169,7 @@ In summary, the advantages of writing CSS (or Sass) the SMURF way are the follow
 FYI: Besides single responsibility, SMURF also improves on some other parts of the SOLID principles as was outlined in this recommendable [blogpost](http://blog.millermedeiros.com/solid-css/).
 
 
-## II) The right usage of Sass' <code>@extend</code> (and placeholder selectors)
+# II) The right usage of Sass' <code>@extend</code> (and placeholder selectors)
 
 As shown above, a central element of the modularization of your CSS is Sass' <code>@extend</code> functionality.  It allows you to inherit styles from a parent module inside your submodule.
 
@@ -247,7 +229,7 @@ Since you can't use <code>%m-button</code> in any other way, but to @extend it, 
 For me, and for SMURF, that is a pretty revolutionary change that only gradually dawned on me and I'm a little surprise why there aren't more people in the Sass community are talking about placeholder selectors, yet.  So, please go out and change that.
 
 
-## More about SMURF
+# More about SMURF
 
 If you want to know more about SMURF I recommend you to go watch my presentation at the awesome [ArrrCamp 6](http://arrrrcamp.be) in Belgium in October.  There is a [video recording with slides](https://vimeo.com/51903907) as well as the [presentation slides only](http://smurf-presentation.herokuapp.com/).
 
