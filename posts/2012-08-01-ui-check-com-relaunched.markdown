@@ -30,6 +30,7 @@ Once the design had been perfected, we started SMACSSing things up by following 
 * Heroku (staging)
 * [Delayed Job](https://github.com/collectiveidea/delayed_job)
 * [Kaminari](https://github.com/amatsuda/kaminari)
+* [Travis CI](https://travis-ci.org) (CI server)
 
 ### Front end
 * HAML
