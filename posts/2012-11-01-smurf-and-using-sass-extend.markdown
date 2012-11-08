@@ -14,6 +14,7 @@ The first part of this blogpost gives you an overview on "**SMURF**", which stan
 
 Back in March I attended a SMACSS workshop by Jonathan Snook ([@snookca](https://twitter.com/snookca)) and wrote a blogpost about the ["Future of Stylesheets"](/blog/2012/03/28/smacss-and-sass-the-future-of-stylesheets) with my first thoughts on implementing the [SMACSS](http://smacss.com) approach using the [Sass preprocessor language](http://sass-lang.com).  Well, the topic has kept us busy for all the time since and and this "Future of Stylesheets" has now actually started to be codified in the form of SMURF and we have gained some valuable experience from using it in our first projects.
 
+<br /><br />
 
 # I)  What is SMURF?
 
@@ -157,7 +158,7 @@ HTML:
 The great thing about using <code>@extend</code> here is, that it allows the element to inherit all the styles from the root module without having to explicitly stating it in the markup.  In traditional SMACSS (or Twitter Bootstrap for that matter) you would have to put both classes <code>class="m-box m-box_attention"</code> to achieve the same thing.
 
 
-#### SMURF advantages
+### SMURF advantages
 
 In summary, the advantages of writing CSS (or Sass) the SMURF way are the following:
 
@@ -167,11 +168,12 @@ In summary, the advantages of writing CSS (or Sass) the SMURF way are the follow
 * you can suddenly safely and comprehensibly share and inherit styles to DRY up your CSS and improve maintainability
 
 <div class="sidenote">
-  <p><strong>FYI</strong>: Besides single responsibility, SMURF also improves on some other parts of the SOLID principles as was outlined in this recommendable [blogpost](http://blog.millermedeiros.com/solid-css/).</p>
+  <p><strong>FYI</strong>: Besides single responsibility, SMURF also improves on some other parts of the SOLID principles as was outlined in this recommendable <a href="http://blog.millermedeiros.com/solid-css/">blogpost</a>.</p>
 </div>
 
+<br /><br /><br />
 
-# II) The right usage of Sass' <code>@extend</code> (and placeholder selectors)
+# II) The right usage of Sass' @extend (and placeholder selectors)
 
 As shown above, a central element of the modularization of your CSS is Sass' <code>@extend</code> functionality.  It allows you to inherit styles from a parent module inside your submodule.
 
@@ -230,6 +232,7 @@ Since you can't use <code>%m-button</code> in any other way, but to @extend it, 
 
 For me, and for SMURF, that is a pretty revolutionary change that only gradually dawned on me and I'm a little surprise why there aren't more people in the Sass community are talking about placeholder selectors, yet.  So, please go out and change that.
 
+<br /><br />
 
 # More about SMURF
 
