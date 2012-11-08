@@ -95,11 +95,11 @@ In this example you can see that, if we would simply give our component a generi
 
 This might seem very strict and verbose on first sight, but especially in a larger team setting it becomes invaluable.
 
-<div class="sidenote">
+<aside>
   <p>One little comment on <strong>nesting Sass</strong></p>
 
   <p>After some back and forth I concluded that I prefer to nest/indent all the styles belonging to a module.  This is not technically necessary, because we are already using the module namespacing, but I still like the visual closure and hierachy that it gives my Sass code.  I think the slightly more complex selectors in the compiled CSS can be ignored and you simply need to be careful not to nest more than 2-3 levels down.</p>
-</div>
+</aside>
 
 
 ### States
