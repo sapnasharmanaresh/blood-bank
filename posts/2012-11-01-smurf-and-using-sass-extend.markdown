@@ -164,9 +164,9 @@ In summary, the advantages of writing CSS (or Sass) the SMURF way are the follow
 * you make sure that styles only apply where they should
 * you can suddenly safely and comprehensibly share and inherit styles to DRY up your CSS and improve maintainability
 
-<div class="sidenote">
+<aside>
   <p><strong>FYI</strong>: Besides single responsibility, SMURF also improves on some other parts of the SOLID principles as was outlined in this recommendable <a href="http://blog.millermedeiros.com/solid-css/">blogpost</a>.</p>
-</div>
+</aside>
 
 <br /><br />
 
