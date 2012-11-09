@@ -47,7 +47,7 @@ Sass:
   margin: 0 auto
 
 .m-box
-  border: 1px solid $border-color
+  border: 1px solid black
 ```
 
 HTML:
@@ -70,10 +70,10 @@ Sass:
 ```css
 .m-box
  .m-box--header
-   background-color: $header-background-color
+   background-color: grey
 
  .m-box--body
-   padding: $padding
+   padding: 10px
 ```
 
 HTML:
@@ -137,12 +137,12 @@ Sass:
 
   // states
   &.is-disabled
-    background-color: $disabled-color
+    background-color: #ccc
 
 // -- submodule --
 .m-box_attention
   @extend .m-box
-  border: 2px solid $attention-color
+  border: 2px solid red
 
    // additional component, that only exists in the submodule
   .m-box_attention--teaser
