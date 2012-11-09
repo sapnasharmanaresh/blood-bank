@@ -21,7 +21,7 @@ In this blogpost I would like to follow up on that other post by giving an overv
 
 # I)  What is SMURF?
 
-<img src="https://github.com/railslove/smurfville/raw/master/app/assets/images/smurfville/smurf.png" style="float: left; margin: 25px 20px 20px 0px">
+<img src="https://github.com/railslove/smurfville/raw/master/app/assets/images/smurfville/smurf.png" style="float: left; margin: 5px 20px 20px 0px">
 
 SMURF basically consists of two things:  firstly, a set of coding conventions for writing SMACSS-style CSS with Sass, and secondly a Ruby gem called ["Smurfville"](https://github.com/railslove/smurfville) which helps you generating _living styleguides_ based on your "SMURF-following" Sass code.  In this post we'll mostly talk about SMURF's coding conventions that are designed to lead to better, more modular frontend code.
 
