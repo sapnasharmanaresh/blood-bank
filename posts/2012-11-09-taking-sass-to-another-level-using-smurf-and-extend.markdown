@@ -2,8 +2,8 @@
 title: Taking Sass to the Next Level with SMURF and @extend
 slug: taking-sass-to-the-next-level-with-smurf-and-extend
 author: jakob_hilden
-featured_image: http://farm8.staticflickr.com/7261/7731744988_e2c0176b25_z.jpg
-published: false
+featured_image: https://dl.dropbox.com/u/409736/smurf_blog_background.png
+published: true
 published_at: 2012-11-09
 tags:
   keyword: smacss, sass, railslove, rails, oss, css, smurf, stylesheets, frontend, modular, conventions
