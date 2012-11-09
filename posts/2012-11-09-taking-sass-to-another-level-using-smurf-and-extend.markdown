@@ -354,7 +354,7 @@ For me, and for SMURF, that is a pretty revolutionary change that only gradually
 
 If you want to know more about SMURF I recommend you watch my [presentation](http://vimeo.com/51903907) at the awesome [ArrrCamp 6](http://arrrrcamp.be) in Belgium in October.
 
-<iframe src="http://player.vimeo.com/video/51903907?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/51903907?badge=0" width="675" height="379" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 You can also find a [slides only version of the presenation](http://smurf-presentation.herokuapp.com/).
 
