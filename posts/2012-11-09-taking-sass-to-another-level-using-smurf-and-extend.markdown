@@ -1,6 +1,6 @@
 ---
 title: Taking Sass to another level using SMURF and @extend
-slug: smurf-and-using-sass-extend
+slug: taking-sass-to-another-level-using-smurf-and-extend
 author: jakob_hilden
 featured_image: http://farm8.staticflickr.com/7261/7731744988_e2c0176b25_z.jpg
 published: false
