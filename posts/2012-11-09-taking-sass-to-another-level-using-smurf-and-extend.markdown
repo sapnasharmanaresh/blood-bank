@@ -19,7 +19,7 @@ In this blogpost I would like to follow up on that other post by giving an overv
 
 <br />
 
-# I)  What is SMURF?
+<h1 id="smurf-section">I)  What is SMURF?</h1>
 
 <img src="https://github.com/railslove/smurfville/raw/master/app/assets/images/smurfville/smurf.png" style="float: left; margin: 5px 20px 20px 0px">
 
@@ -175,7 +175,7 @@ In summary, the advantages of writing CSS (or Sass) the SMURF way are the follow
 
 <br />
 
-# II) The Right Usage of Sass's @extend (and Placeholder Selectors)
+<h1 id="sass-extend-section">II) The Right Usage of Sass's @extend (and Placeholder Selectors)</h1>
 
 As shown above, a central element of the modularization of your CSS is Sass' <code>@extend</code> functionality.  It allows you to inherit styles from a parent module inside of submodules.
 
