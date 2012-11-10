@@ -23,7 +23,7 @@ In this blogpost I would like to follow up on that other post by giving an overv
 
 <img src="https://github.com/railslove/smurfville/raw/master/app/assets/images/smurfville/smurf.png" style="float: left; margin: 5px 20px 20px 0px">
 
-SMURF basically consists of two things:  firstly, a set of coding conventions for writing SMACSS-style CSS with Sass, and secondly a Ruby gem called ["Smurfville"](https://github.com/railslove/smurfville) which helps you generating _living styleguides_ based on your "SMURF-following" Sass code.  In this post we'll mostly talk about SMURF's coding conventions that are designed to lead to better, more modular frontend code.
+SMURF basically consists of two things:  firstly, a set of coding conventions for writing SMACSS-style CSS with Sass, and secondly a Ruby gem called ["Smurfville"](https://github.com/railslove/smurfville) which helps you generating _living styleguides_ based on your SMURF-compliant Sass code.  In this post we'll mostly talk about SMURF's coding conventions that are designed to lead to better, more modular frontend code.
 
 
 ## How to write better frontend code using SMACSS & Sass
@@ -118,7 +118,7 @@ Submodules are versions/variants of an existing module.  They inherit all the at
 
 ### Module modifiers
 
-Because creating a new submodule for every different context or use case proved to be overkill and submodules are very awkward to combine (<code>m-box\_attention_sidebar</code>??, <code>m-box\_attention m-box_sidebar</code>??), SMURF introduces a new entity called **module modifiers**.  They are something in between states and submodules.  They are defined the same way as states – as an additional class on the root module (e.g. <code>&.modifier</code>), but – just like a submodule – they describe a slightly different version of their parent module.  The concept could be familiar to you from Twitter Bootstrap and examples would be things like <code>.m-box.right</code>, <code>.m-box.no-border</code>.  The idea behind module modifiers is to use them for **little**, **chainable** changes to modules. Submodules on the other hand are used for more **substantial** changes, which for example also affect or add components.
+Because creating a new submodule for every different context or use case proved to be overkill and submodules are very awkward to combine (<code>m-box\_attention\_sidebar</code>??, <code>m-box\_attention m-box\_sidebar</code>??), SMURF introduces a new entity called **module modifiers**.  They are something in between states and submodules.  They are defined the same way as states – as an additional class on the root module (e.g. <code>&.modifier</code>), but – just like a submodule – they describe a slightly different version of their parent module.  The concept could be familiar to you from Twitter Bootstrap and examples would be things like <code>.m-box.right</code>, <code>.m-box.no-border</code>.  The idea behind module modifiers is to use them for **little**, **chainable** changes to modules. Submodules on the other hand are used for more **substantial** changes, which for example also affect or add components.
 
 Here we have a complete SMURF code example of both submodules and modifiers in action:
 
