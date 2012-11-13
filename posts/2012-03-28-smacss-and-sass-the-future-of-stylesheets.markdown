@@ -25,6 +25,9 @@ tags:
   - modular
   - conventions
 ---
+
+**UPDATE**:  We wrote a follow-up to this article titled [Taking Sass to the Next Level with SMURF and @extend](http://railslove.com/blog/2012/11/09/taking-sass-to-the-next-level-with-smurf-and-extend) which you might also be interested in reading.
+
 I just had the the pleasure of attending the <a href="http://smacss.com/">SMACSS</a> workshop in Essen by Jonathan Snook (<a href="https://twitter.com/#!/snookca">@snookca</a>) and wanted to share my impression of the "SMACSS approach" to CSS and some considerations on using it together with <a href="http://sass-lang.com/">SASS</a>.
 <h2><strong>Overview: The philosophy behind SMACSS
 </strong></h2>
@@ -137,3 +140,5 @@ The last little thing I want to talk about is a small issue I have with the SMAC
 <h2>tl;dr</h2>
 SMACSS is a very user-friendly approach to modular CSS.  It asks for nothing less than a complete shift from a "page mentality" towards webdesign, to a search and codification of visual patterns.  For that it offers a concise and sensible categorization and naming scheme.
 It generally goes along very well with SASS, especially using the @extend feature and when it comes to themeing.  It's kind of an open question how SASS's nesting capabilities fit with SMACSS, but in general I think it can bring lots of very valuable and badly needed modularity and conventions to the SASS/Rails community.
+
+**UPDATE**:  We wrote a follow-up to this article titled [Taking Sass to the Next Level with SMURF and @extend](http://railslove.com/blog/2012/11/09/taking-sass-to-the-next-level-with-smurf-and-extend) which you might also be interested in reading.
