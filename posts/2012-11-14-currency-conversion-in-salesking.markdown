@@ -1,6 +1,7 @@
 ---
 title: Currency conversion in Ruby
 author: mike_poltyn
+featured_image: http://i.imgur.com/g1wHP.jpg
 tags:
   keyword: currency
   project: railslove, sales_king
