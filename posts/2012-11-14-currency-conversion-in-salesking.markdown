@@ -103,3 +103,5 @@ Afterword
 ---
 
 I hope this post will save you some of the trouble I had with currency conversion and will be a helpful guide to many Ruby and Ruby on Rails developers!
+
+Title photo [http://i.imgur.com/g1wHP.jpg](http://i.imgur.com/g1wHP.jpg) courtesy of [epSos.de](http://www.flickr.com/photos/epsos/), [http://www.flickr.com/photos/epsos/8108903951](http://www.flickr.com/photos/epsos/8108903951)
