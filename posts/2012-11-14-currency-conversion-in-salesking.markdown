@@ -1,5 +1,5 @@
 ---
-title: Currency conversion in SalesKing
+title: Currency conversion in Ruby
 author: mike_poltyn
 tags:
   keyword: currency
@@ -60,7 +60,7 @@ but after a quick look at it we've figured it was not enough, because when asked
     ORDER BY ABS( DATEDIFF( currency_on, "date" ) ) ASC
     LIMIT 1
 
-The added `WHERE` condition allowes to choose only exchange rates which exist before a given "`date`". The `ABS()` function is still needed in `ORDER BY`, because `DATEDIFF` will always return a negative value in our case. 
+The added `WHERE` condition allowes to choose only exchange rates which exist before a given "`date`". The `ABS()` function is still needed in `ORDER BY`, because `DATEDIFF` will always return a negative value in our case.
 
 Now, put it as a Rails scope, for example:
 
