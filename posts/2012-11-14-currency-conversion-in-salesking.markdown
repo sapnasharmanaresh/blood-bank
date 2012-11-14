@@ -23,6 +23,7 @@ To sum it all up, there are just three things that have to be taken care of, whi
 2. Take care of dates when banks are closed (weekends, holidays).
 3. Use the `money` gem for everything you can! It'll ease up development a lot for you.
 
+
 Data source
 ---
 
@@ -43,6 +44,7 @@ We imported all the data from the ECB to our own database, saving exchange rate 
     | counter_currency | varchar(3)     | YES  |     | NULL    |       |
     | exchange_rate    | decimal(16,10) | YES  |     | NULL    |       |
     +------------------+----------------+------+-----+---------+-------+
+
 
 #### Paid sources
 
@@ -82,6 +84,7 @@ And you're ready to do `Currency.on(Date.yesterday)`.
 
 <small>P.S. to the scope code: as far as I know, the Rails version we're using on SalesKing doesn't support prepared SQL statements except in `conditions`, so the `order` call had to be put as an interpolated string.</small>
 
+
 Document handling
 ---
 
@@ -98,6 +101,7 @@ Therefore, our clients can invoice their clients in a different currency than th
 We had to take care of saving static values of exchange rates in documents. This is the most important thing to remember. Always save the final exchange rate in the models. Exchange rates that we save in the database are there only for easy access and for filling in the exchange rate field in documents.
 
 To properly format the currencies, we use the [`money` gem](https://github.com/RubyMoney/money), which has [default currency formats defined](https://github.com/RubyMoney/money/blob/master/config/currency.json) for 158 currencies of the world. The `money` gem is definitely the best library for Ruby right now for currency formatting and handling.
+
 
 Afterword
 ---
