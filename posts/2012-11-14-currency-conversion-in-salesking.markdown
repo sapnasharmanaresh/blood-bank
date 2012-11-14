@@ -4,7 +4,7 @@ author: mike_poltyn
 tags:
   keyword: currency
   project: railslove, sales_king
-  people: mike_poltyn, georg_leciejewski
+  person: mike_poltyn, georg_leciejewski
 published: false
 
 ---
