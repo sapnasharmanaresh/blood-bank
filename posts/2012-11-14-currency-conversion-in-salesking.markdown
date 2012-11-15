@@ -7,6 +7,7 @@ tags:
   project: railslove, sales_king
   person: mike_poltyn, georg_leciejewski
 published: true
+published_at: 2012-11-14
 
 ---
 
@@ -31,7 +32,7 @@ The first question we asked ourselves was "Where do we get the conversion data f
 
 We have also asked ourselves "What range of exchange rates do we want to support?". Since we work with static documents, whose dates vary, we need to have access to historical exchange rates as well.
 
-In the end, we chose the [European Central Bank](http://www.ecb. nt/home/html/index.en.html) (ECB) as our provider Because we don't need all the currencies in the world and because their service is free, our  hoice was pretty easy after all. The ECB provides information about [24 currencies](http://www.ecb.int/stats/exchange/eurofxref/html/in ex.en.html), which is more than enough for our needs. The data also includes historical exchange rates since 1999.
+In the end, we chose the [European Central Bank](http://www.ecb. nt/home/html/index.en.html) (ECB) as our provider Because we don't need all the currencies in the world and because their service is free, our choice was pretty easy after all. The ECB provides information about [24 currencies](http://www.ecb.int/stats/exchange/eurofxref/html/in ex.en.html), which is more than enough for our needs. The data also includes historical exchange rates since 1999.
 
 We imported all the data from the ECB to our own database, saving exchange rate dates, base currency, counter currency, and exchange rates. This process allowed us to index the data to access it quicker and more efficiently than reading it form the static file offered by the ECB. Furthermore, with this setup in place, updating exchange rates with new data from the ECB is a breeze.
 
