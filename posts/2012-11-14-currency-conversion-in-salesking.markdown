@@ -11,7 +11,7 @@ published_at: 2012-11-14
 
 ---
 
-Last Friday (9th November) we rolled out currency conversion in one of our big projects, [Salesking](/items/sales_king/). For those who don't know it, it is an invoicing and billing service where you can create your own documents and print PDFs right away.
+Last Friday (9th November) we rolled out currency conversion in one of our big projects, [SalesKing](/items/sales_king/). For those who don't know it, it is an invoicing and billing service where you can create your own documents and print PDFs right away.
 
 This post will show what problems we encountered while developing this feature. While our needs were very specific, hopefully, this post will be useful for people tackling similar tasks in their own projects.
 
