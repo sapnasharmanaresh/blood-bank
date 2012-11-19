@@ -1,5 +1,6 @@
 ---
 title: Advance Pitching Day in Cologne - Da simmer dabei!
+slug: advance-pitching-day-in-cologne-da-simmer-dabei
 author: jan_kus
 featured_image: http://i.imgur.com/VCawZ.png
 tags:
