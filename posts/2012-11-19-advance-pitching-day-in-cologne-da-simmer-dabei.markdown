@@ -20,6 +20,6 @@ Weiterhin werden drei veschiedene Pitches-Runden stattfinden: ["Closed Pitches"]
 
 Railslove freut sich ganz besonders von allen [StartUp Teilnehmern](http://pitchingday.advance-conference.com/network/start-ups/) auf [Reputami](http://www.reputami.com/) die schon beim [2. Betapitch in Köln](http://www.betapitch.de/koeln/) den Publikumspreis und 2. Preis abgeräumt haben.
 
-Wir freuen uns Euch auf dem ADVANCED Pitching Day zu sehen. Und für all die Hacker in Köln und Umgebung: am Mittwoch auf der [Cologne.rb](http://cologne.onruby.de/events/movember-meetup-2012) werden wir noch ein Ticket (Wert 60 Euro) dabei haben - wer noch dabei sein möchte - bitte diesen Post liken, kommentieren, vorbeikommen und das Ticket abholen!
+Wir freuen uns Euch auf dem ADVANCE Pitching Day zu sehen. Und für all die Hacker in Köln und Umgebung: am Mittwoch auf der [Cologne.rb](http://cologne.onruby.de/events/movember-meetup-2012) werden wir noch ein Ticket (Wert 60 Euro) dabei haben - wer noch dabei sein möchte - bitte diesen Post liken, kommentieren, vorbeikommen und das Ticket abholen!
 
 Alle weiteren Infos und Updates findet ihr unter: [http://pitchingday.advance-conference.com/](http://pitchingday.advance-conference.com/) und auf [Twitter](http://twitter.com/advanceconf)
