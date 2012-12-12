@@ -4,7 +4,7 @@ author: liane_thonnes
 featured_image: http://i.imgur.com/src8X.png
 tags:
   keyword: railsgirls, rails girls, rheinland, monheim, Ruby on Rails, ROR, women, tech, girls, ladies, awesome
-  person: liane_thonnes
+  person: liane_thonnes, tatjana_lajendacker
 published: true
 published_at: 2012-12-12
 
@@ -44,6 +44,4 @@ I think the entire attitude of the workshop is summed up with ‘Why the hell no
 I’m fully confident that the girls will dive in, continue to learn Ruby on Rails and potentially build powerful web applications in the future.
 
 So Ladies all around the Rheinland and NRW: 
-**Take your chance! Apply now for Rails Girls Rheinland.**
-
-[Rails Girls Rheinland](http://www.railsgirls.com/rheinland/)
+**Take your chance! Apply now for [Rails Girls Rheinland](http://railsgirls.com/rheinland).**
