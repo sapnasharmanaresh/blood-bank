@@ -16,7 +16,7 @@ A Ruby on Rails workshop called [Rails Girls Rheinland](http://www.railsgirls.co
 
 [Tatjana](http://railslove.com/team/tatjana_lajendacker/) and [I](http://railslove.com/team/liane_thonnes/) attended our first Rails Girls workshop in Berlin in early 2012 and it was so incredibly inspiring and motivating that we both decided quickly: We want to bring Rails Girls to Cologne. So after a few months of organizing the Cologne event took place in September and was absolutely fabulous. Take a look at the video …
 
-<iframe src="http://player.vimeo.com/video/51511255" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/51511255" width="674" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <p><a href="http://vimeo.com/51511255">Rails Girls Cologne - September 2012</a> from <a href="http://vimeo.com/user14112349">Liane Th&ouml;nnes</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 Just a few days after the event we were asked if we'd be interested in organizing another Rails Girls event in Monheim. As we in Cologne had about three times more applicants than we could accept this was just a perfect chance. So well: Yes! Let's do it again.
