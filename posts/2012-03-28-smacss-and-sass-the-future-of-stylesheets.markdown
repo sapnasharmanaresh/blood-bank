@@ -148,5 +148,5 @@ It generally goes along very well with SASS, especially using the @extend featur
 </div>
 
 <div class="attention">
-  <p><strong>UPDATE2</strong>: This article has been translated to Serbo-Croatian by Vera Djuraskovic from [Webhostinggeeks.com](http://webhostinggeeks.com/): [http://science.webhostinggeeks.com/smacss-i-sass](http://science.webhostinggeeks.com/smacss-i-sass)
+  <p><strong>UPDATE2</strong>: This article has been translated to Serbo-Croatian by Vera Djuraskovic from <a href="http://webhostinggeeks.com/" target="_blank">Webhostinggeeks.com</a>: <a href="http://science.webhostinggeeks.com/smacss-i-sass" >http://science.webhostinggeeks.com/smacss-i-sass</a>
 </div>
