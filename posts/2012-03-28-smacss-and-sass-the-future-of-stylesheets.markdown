@@ -146,3 +146,7 @@ It generally goes along very well with SASS, especially using the @extend featur
 <div class="attention">
   <p><strong>UPDATE</stron>:  We wrote a follow-up to this article titled <a href="http://railslove.com/blog/2012/11/09/taking-sass-to-the-next-level-with-smurf-and-extend">Taking Sass to the Next Level with SMURF and @extend</a> which you might also be interested in reading.</p>
 </div>
+
+**Update:**
+
+This article has been translated to Serbo-Croatian by Vera Djuraskovic from [Webhostinggeeks.com](http://webhostinggeeks.com/): [http://science.webhostinggeeks.com/smacss-i-sass](http://science.webhostinggeeks.com/smacss-i-sass)
