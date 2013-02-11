@@ -144,9 +144,9 @@ SMACSS is a very user-friendly approach to modular CSS.  It asks for nothing le
 It generally goes along very well with SASS, especially using the @extend feature and when it comes to themeing.  It's kind of an open question how SASS's nesting capabilities fit with SMACSS, but in general I think it can bring lots of very valuable and badly needed modularity and conventions to the SASS/Rails community.
 
 <div class="attention">
-  <p><strong>UPDATE</stron>:  We wrote a follow-up to this article titled <a href="http://railslove.com/blog/2012/11/09/taking-sass-to-the-next-level-with-smurf-and-extend">Taking Sass to the Next Level with SMURF and @extend</a> which you might also be interested in reading.</p>
+  <p><strong>UPDATE</strong>:  We wrote a follow-up to this article titled <a href="http://railslove.com/blog/2012/11/09/taking-sass-to-the-next-level-with-smurf-and-extend">Taking Sass to the Next Level with SMURF and @extend</a> which you might also be interested in reading.</p>
 </div>
 
-**Update:**
-
-This article has been translated to Serbo-Croatian by Vera Djuraskovic from [Webhostinggeeks.com](http://webhostinggeeks.com/): [http://science.webhostinggeeks.com/smacss-i-sass](http://science.webhostinggeeks.com/smacss-i-sass)
+<div class="attention">
+  <p><strong>UPDATE2</strong>: This article has been translated to Serbo-Croatian by Vera Djuraskovic from [Webhostinggeeks.com](http://webhostinggeeks.com/): [http://science.webhostinggeeks.com/smacss-i-sass](http://science.webhostinggeeks.com/smacss-i-sass)
+</div>
