@@ -1,7 +1,7 @@
 ---
 title: Open Data Day Cologne
 author: jan_kus
-featured_image: http://sphotos-d.ak.fbcdn.net/hphotos-ak-prn1/482533_10151544635489009_314431484_n.jpg
+featured_image: http://sphotos-g.ak.fbcdn.net/hphotos-ak-snc7/377619_10151544764049009_1710592413_n.jpg
 tags:
   keyword: opendata, open, data, hacking
   project: railslove
