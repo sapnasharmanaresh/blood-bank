@@ -6,7 +6,7 @@ tags:
   keyword: opendata, open, data, hacking
   project: railslove
   people: jan_kus
-published: false
+published: true
 published_at: 2013-02-19T23:00:00Z
 
 ---
@@ -79,4 +79,4 @@ until 10:30 AM - killing the hangover
 
 So, there is no real end. The Open Data Day is just one day... but you should hack on your project every day...so don't stop, just hack and show people what kind of amazing things you can build using open data!
 
-See you on saturday at Startplatz and sunday at Bottfabrik.
+See you on saturday at Startplatz and sunday at the brand new Bottfabrik.
