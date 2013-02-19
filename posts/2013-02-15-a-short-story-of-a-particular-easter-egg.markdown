@@ -3,7 +3,7 @@ title: A short story of a particular easter egg
 author: mike_poltyn
 featured_image: http://img.poltyn.com/railslove_code-20130215-175157.png
 tags:
-  keyword: konami code, railslove, ponies
+  keyword: konamicode, railslove, ponies
   project: railslove
   people: paul_wittmann, mike_poltyn
 published: true

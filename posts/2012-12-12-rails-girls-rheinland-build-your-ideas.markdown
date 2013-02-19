@@ -3,7 +3,7 @@ title: Rails Girls Rheinland - Build your ideas!
 author: liane_thonnes
 featured_image: http://i.imgur.com/src8X.png
 tags:
-  keyword: railsgirls, rails girls, rheinland, monheim, Ruby on Rails, ROR, women, tech, girls, ladies, awesome
+  keyword: railsgirls, railsgirls, rheinland, monheim, Ruby on Rails, ROR, women, tech, girls, ladies, awesome
   person: liane_thonnes, tatjana_lajendacker
 published: true
 published_at: 2012-12-12
