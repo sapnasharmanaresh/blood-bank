@@ -12,11 +12,13 @@ Using Sass to preprocess your stylesheets has brought us many, many advantages a
 
 For example, with some simple Sass code like this
 
-    .context-a, .context-b
+```css
+.context-a, .context-b
 
-      .some-class
+  .some-class
 
-      .another-class
+  .another-class
+```
 
 http://sassmeister.com/gist/5021188
 
