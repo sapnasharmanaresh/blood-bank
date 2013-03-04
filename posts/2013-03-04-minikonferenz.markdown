@@ -6,7 +6,7 @@ tags:
   keyword: conference, talks, creativity
   project: railslove
   people: jan_kus
-published: false
+published: true
 published_at: 2013-04-03T10:10:00Z
 
 ---
