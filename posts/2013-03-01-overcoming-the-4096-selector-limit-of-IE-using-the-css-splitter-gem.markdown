@@ -10,7 +10,7 @@ tags:
 
 There has been an annoying CSS limit slumbering in IE for many years that is now increasingly encountered by more and more web developers.  The issue is, that previous IE versions (below version 10) have a **limit on the number of parseable selectors within one single stylesheet**.  Especially in the Rails world this number has considerably increased lately due to the introduction of [Sass](http://sass-lang.com/) (**--> more selectors**) and the [asset pipeline](http://guides.rubyonrails.org/asset_pipeline.html) (**--> bigger stylesheets**).  This blogpost gives a little bit of background on the issue and introduces the [CssSplitter](https://github.com/zweilove/css_splitter) gem, which we developed to help Rails developers split up their overweight stylesheets for IE compatibility.
 
-### The background:  How did our stylesheet become so big?
+### The background:  How did our stylesheets become so big?
 
 I think both the asset pipeline and Sass have brought us many, many advantages and in my opinion really taken CSS development to a whole new level. However, they also introduced a couple of new challenges. For the asset pipeline it's pretty obvious that it has an increasing effect on the overall size of stylesheets, by offering a very simple way of concatinating styles from several files into single stylesheets.  For Sass the influence on the number selectors of compiled CSS is a lot more subtle. Basically the major culprits are nesting and `@extend`, as shown in this simple code example:
 
