@@ -3,6 +3,7 @@ title: Overcoming IE's 4096 selector limit using the CssSplitter gem
 slug: overcoming-ies-4096-selector-limit-using-the-css-splitter-gem
 author: jakob_hilden
 published: true
+featured_image: https://dl.dropbox.com/u/409736/static/css_splitter_blog_post_backg.png
 published_at: 2013-03-08
 tags:
   keyword: css, IE, rails, zweitag, zweilove, oss, css, stylesheets, frontend, gems
