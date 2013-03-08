@@ -29,11 +29,11 @@ I think both the asset pipeline and Sass have brought us many, many advantages a
   color: green
 ```
 
-From briefly and naively looking at the Sass code it looks like there would be 5 different selectors (`context_a, context_b, some_class, another_class, yet_another_class`). However, the actual has a total of **9 selectors**. Check out the [Sassmeister output](http://sassmeister.com/gist/5021188) for the details. I think you can imagine what kind of impact it can have on the large scale, if you nest in such a way (many selectors on lower levels of a nested structure) and do a lot of `@extend` on plain Sass classes.
-
 <aside>
   <p>It should be noted here that I would consider the Sass style above to be somewhat of an anti-pattern. As a rule of thumb one should try to avoid too much nesting (not beyond 3 levels) in general and definitely limit the classes on the lower levels.  Also I would recommend trying to use Sass's <a href="http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#placeholder_selectors_">placeholder selectors</a> when using <code>@extend</code>, which you can read about <a href="http://railslove.com/blog/2012/11/09/taking-sass-to-the-next-level-with-smurf-and-extend">here</a>.</p>
 </aside>
+
+From briefly and naively looking at the Sass code it looks like there would be 5 different selectors (`context_a, context_b, some_class, another_class, yet_another_class`). However, the actual has a total of **9 selectors**. Check out the [Sassmeister output](http://sassmeister.com/gist/5021188) for the details. I think you can imagine what kind of impact it can have on the large scale, if you nest in such a way (many selectors on lower levels of a nested structure) and do a lot of `@extend` on plain Sass classes.
 
 In addition to the introduction of the asset pipeline and Sass web applications have also kept on growing over the last couple of years, and bigger web applications obviously result in bigger stylesheets as well.
 
