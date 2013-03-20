@@ -9,7 +9,7 @@ tags:
   keyword: rubyonrails, women, railsgirls, girls, rheinland, monheim, ROR, tech, ladies, awesome  
 ---
 
-On March 1st and 2nd the first Rails Girls Rheinland Workshop took place in Monheim - organized by Tatjana, me and some awesome guys and girls from innoQ - the company that kindly offered to host and sponsor the event. (Here's what it's all about: [Rails Girls Rheinland - Build your ideas](http://railslove.com/blog/2012/12/12/rails-girls-rheinland-build-your-ideas))
+On March 1st and 2nd the first Rails Girls Rheinland Workshop took place in Monheim - organized by [Tatjana](https://railslove.com/team/tatjana_lajendacker/), me and some awesome guys and girls from [innoQ](https://www.innoq.com) - the company that kindly offered to host the event. (Here's what it's all about: [Rails Girls Rheinland - Build your ideas](http://railslove.com/blog/2012/12/12/rails-girls-rheinland-build-your-ideas))
 
 We were happy to welcome 30 women from the age of 15 to 30+ ;). Ten coaches stepped forward to lend a hand including our own [Jan](https://railslove.com/team/jan_kus/) and as a very special coach [Verena Würbel](http://de.linkedin.com/pub/verena-würbel/6/362/59b), who came in touch with Rails Girls as a attendee at [Rails Girls Cologne](http://www.railsgirls.com/cologne). 
 So after a few  months of organizing, this package of pandas arrived in between Dusseldorf and Cologne and I knew we were in for a fun weekend. And so it was: Huge fun, very inspiring, motivating and helpful. Great ladies - great atmosphere - Wow!
