@@ -16,7 +16,7 @@ So after a few  months of organizing, this package of pandas arrived in between 
 
 [Tim Ottowitz](http://www.linkedin.com/profile/view?id=198974927&locale=de_DE&trk=tyah) did a nice video of the weekend. Take a look:
 
-<iframe src="http://player.vimeo.com/video/62054262" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/62054262">Rails Girls Rheinland - March 1 + 2</a> from <a href="http://vimeo.com/user14112349">Liane Th&ouml;nnes</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="http://player.vimeo.com/video/62054262" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/62054262"></p>
 
 And here's some pictures Christian took during the event: [Rails Girls Rheinland Workshop on Flickr](http://www.flickr.com/photos/darkhawk/sets/72157632939303346/)
 
