@@ -2,7 +2,7 @@
 title: Wellkomme em Hähz des Rhingland – Rails Girls Rheinland
 slug: rails-girls-rheinland
 author: liane_thonnes
-published: false
+published: true
 featured_image: https://www.dropbox.com/s/d4d5y0luhswr4fd/railsgirls.png
 published_at: 2013-03-20
 tags:
