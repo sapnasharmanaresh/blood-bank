@@ -3,7 +3,7 @@ title: Wellkomme em Hähz des Rhingland – Rails Girls Rheinland
 slug: rails-girls-rheinland
 author: liane_thonnes
 published: true
-featured_image: http://i.imgur.com/nPoE2cM.png
+featured_image: http://i.imgur.com/src8X.png
 published_at: 2013-03-20
 tags:
   keyword: rubyonrails, women, railsgirls, girls, rheinland, monheim, ROR, tech, ladies, awesome  
