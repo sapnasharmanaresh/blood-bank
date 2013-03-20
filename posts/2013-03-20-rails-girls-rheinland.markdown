@@ -18,9 +18,7 @@ So after a few  months of organizing, this package of pandas arrived in between 
 
 <iframe src="http://player.vimeo.com/video/62054262" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/62054262">Rails Girls Rheinland - March 1 + 2</a> from <a href="http://vimeo.com/user14112349">Liane Th&ouml;nnes</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
-And here's some pictures Christian took during the event:
-
-<object width="900" height="675"> <param name="flashvars" value="offsite=true&lang=de-de&page_show_url=%2Fphotos%2Fliane_thoennes%2Fsets%2F72157631696377134%2Fshow%2F&page_show_back_url=%2Fphotos%2Fliane_thoennes%2Fsets%2F72157631696377134%2F&set_id=72157631696377134&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=121572"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=121572" allowFullScreen="true" flashvars="offsite=true&lang=de-de&page_show_url=%2Fphotos%2Fliane_thoennes%2Fsets%2F72157631696377134%2Fshow%2F&page_show_back_url=%2Fphotos%2Fliane_thoennes%2Fsets%2F72157631696377134%2F&set_id=72157631696377134&jump_to=" width="900" height="675"></embed></object>
+And here's some pictures Christian took during the event: [Rails Girls Rheinland Workshop on Flickr](http://www.flickr.com/photos/darkhawk/sets/72157632939303346/)
 
 134 bottles of Mate, 8 huge family Pizzas, lots of lovely quiche and salad and soup, 30 apps, 5 lightning talks, 1 hangout with the Rails Girls Baltimore and a reasonable number of lovely cocktails later it was all over. 
 
