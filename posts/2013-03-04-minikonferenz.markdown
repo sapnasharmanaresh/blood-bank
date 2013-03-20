@@ -7,7 +7,7 @@ tags:
   project: railslove
   people: jan_kus
 published: true
-published_at: 2013-04-03T10:10:00Z
+published_at: 2013-03-04T10:10:00Z
 
 ---
 Nach dem erfolgreichen Open Data Day in Köln folgt ein zweites, kleines, aber sehr sehr feines Event: die [Minikonferenz](http://minikonferenz.de). Es ist eine 3 Stündige Konferenz für Hacker, Painter, Storyteller oder für alle die _schönes tun, außergewöhnliche Wege zum Ziel gehen, zur Gesellschaft beitragen, auch mal etwas verschenken, Ideen in die Tat umsetzen, aus Taten neue Ideen schöpfen, Altes neu denken, digitale Gesellen sind, post-digitale Wesen sind, Schaltkreise hacken, Kunst machen, Geschichten erzählen... oder einfach nur rocken!_ 
