@@ -1,0 +1,22 @@
+---
+title: Hack***on
+slug: hack--on
+author: jan_kus
+published: true
+featured_image: http://farm6.staticflickr.com/5144/5616884197_90295d8075_b.jpg
+published_at: 2013-05-06
+tags:
+  keyword: hackathon, trademark, dpma
+---
+
+Shortly: a few days ago, someone spotted that the word ["Hackathon"](https://register.dpma.de/DPMAregister/marke/register/3020120063403/DE?lang=en) is registered as a trademark in germany. We decided to try to remove this registration as a trademark. 
+
+Why? Because I'm a hacker. Because as I said a few days ago: 
+
+_I've organized #hackathons, I'm organizing a #hackathon and I will continue organizing #hackathons & I will continue calling them #hackathons!_.
+
+Nuff said.
+
+Stay tuned.
+
+Jan
