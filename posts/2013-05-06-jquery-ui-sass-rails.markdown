@@ -42,9 +42,11 @@ I have recently used `jquery-ui-sass-rails` in our first production app ([sporta
 
 Here is a screenshot of the app's jQuery UI datepicker.  Customized using only **11** variables:
 
-[![jQuery UI Datepicker in Splink Sportabzeichen app](https://dl.dropboxusercontent.com/u/409736/static/splink_sportabzeichen_datepicker.png)]
+![jQuery UI Datepicker in Splink Sportabzeichen app](https://dl.dropboxusercontent.com/u/409736/static/splink_sportabzeichen_datepicker.png)
 
 ## Perspectives for the Future
+
+To further improve the customization of jQuery UI using Sass, here are some possible future goals:
 
 ### Distribution
 
@@ -60,6 +62,6 @@ I personally would actually think it would be great to use even more of the powe
 
 I would also like to simplify the variable usage even more by creating some convenience variables such as `$glossyBackgrounds: false`, because it's still not 100% obvious which variables control what.  Any suggestions (or help) is very welcome.
 
-### Questions Anybody?
+## Questions Anybody?
 
 In general I would be grateful for any feedback.  What do you think about the gem?  Does this change your opinion about jQuery UI?  Are there other things that bother you?  Should jQuery UI start using Sass, even though it's not an official web standard or wait for the CSS spec (variables etc.) to evolve?
