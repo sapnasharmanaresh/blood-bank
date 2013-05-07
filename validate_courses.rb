@@ -9,7 +9,7 @@ schema = File.open(schema_file) { |f| JSON.parse(f.read) }
 describe 'courses' do
   Dir["#{courses_path}/*\.*"].each do |file|
     it "#{file.sub(/(\..*$)/,'').sub(/^#{courses_path}/,'')} contains valid json" do
-      
+
       begin
         json_str = File.open(file) { |f| f.read }
         # force_encoding only available in ruby 1.9.2
