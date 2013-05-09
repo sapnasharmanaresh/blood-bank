@@ -3,7 +3,7 @@ title: Eurovision Song Contest 2013 - I have an app for that!
 slug: eurovision-song-contest-2013-i-have-an-app-for-that
 author: jan_kus
 published: true
-featured_image: http://dl.dropboxusercontent.com/s/o4w1a62f4ffquuc/2013-05-09_at_8.01.35_PM.png
+featured_image: http://dl.dropboxusercontent.com/s/d9dibwqaevfyvhk/2013-05-09_at_8.05.15_PM.png
 published_at: 2013-05-09
 tags:
   keyword: esc, eurovision, song, contest, app, registration
