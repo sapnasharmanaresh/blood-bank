@@ -8,7 +8,7 @@ required_attributes = %w(slug title person content)
 describe 'posts' do
   Dir["#{posts_path}/*\.*"].each do |file|
     it "#{file.sub(/(\..*$)/,'').sub(/^#{posts_path}/,'')} contains valid yaml header" do
-      
+
       begin
 
         raw_data = File.open(file) { |f| f.read }
@@ -32,7 +32,7 @@ describe 'posts' do
           end
 
           raise "Invalid author: #{post[:person]}" if !File.exists? "people/#{post[:person]}.json"
-        
+
           if post[:keyword_list] && !post[:keyword_list].empty?
             post[:keyword_list] = post[:keyword_list].split(",") if post[:keyword_list].kind_of?(String)
             post[:keyword_list].each(&:strip!).each do |keyword|

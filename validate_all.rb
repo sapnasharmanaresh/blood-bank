@@ -1,3 +1,5 @@
+require 'yaml'
+
 require './validate_events'
 require './validate_people'
 require './validate_projects'
