@@ -1,5 +1,5 @@
 ---
-title: Credibility comes with merit, not ownership &#0153;
+title: Credibility comes with merit, not ownership (TM)
 slug: credibility-comes-with-merit-not-ownership
 author: jan_kus
 published: false
@@ -13,7 +13,7 @@ Even if the trademark "hackathon" [is in progress of deletion (search for "++++ 
 
 I think trademarking this kind of a word (e.g.: 'marathon', 'half marathon', 'swimming', 'triathlon' or … 'hackathon'… ) is totally wrong because it is simply descriptive. I'm a trademark noob but that was my first thought. But even without this one in the end [Nele Wollert](https://www.facebook.com/nelewollert) described what this all is about: _Credibility comes with merit, not ownership_&#0153; 
 
-I would like to thank our lawyers [Albert Albrecht](http://albrechtanwaelte.de) and [Iris Kraft](http://markenquelle.de) for their support. One of my first step was to try to delete the trademark and it was immediately clear that this is possible. Here is the argument why the word 'hackathon' is not trademarkable at all (German only) and it sounds totally reasonable to me:
+I would like to thank our lawyers [Albert Albrecht](http://albrechtanwaelte.de) and [Iris Kraft](http://markenquelle.de) for their support. One of my first steps was to try to delete the trademark and it was immediately clear that this is possible. Here is the argument why the word 'hackathon' is not trademarkable at all (German only) and it sounds totally reasonable to me:
 
 >  Begründung zur Löschung der Marke „Hackathon“
 
@@ -35,7 +35,7 @@ I would like to thank our lawyers [Albert Albrecht](http://albrechtanwaelte.de) 
 >   * [http://en.wikipedia.org/wiki/Hackathon](http://en.wikipedia.org/wiki/Hackathon)
 >  * Hackathon: Revision history (seit 2005)
 >   * [http://en.wikipedia.org/w/index.php?title=Hackathon&action=history&year=2005&month=-1&tagfilter=](http://en.wikipedia.org/w/index.php?title=Hackathon&action=history&year=2005&month=-1&tagfilter=)
->  * Beschreibung „Hackathon“ auf www. nerd-zone.com
+>  * Beschreibung „Hackathon“ auf [www.nerd-zone.com](www.nerd-zone.com)
 >   * Nerd Zone ist eine eingetragene Marke des Inhabers von „hackathon“ (nachtausgabe.de GmbH). Die Beschreibung der Marke beschreibt nur den allgemeinen Begriff
 >   * [http://www.nerd-zone.com/hackathon-what-is-hackathon](http://www.nerd-zone.com/hackathon-what-is-hackathon)
 >  * Beispiele für allgemeine Benutzung des Begriffs:
@@ -51,9 +51,9 @@ The first one is the idea of trademarking the word, take licence fees for it and
 
 Second: I had to laugh a bit but I am also really surprised and disappointed to see [Thomas Bachem](https://twitter.com/thomasbachem) and [Bundesverband Deutsche Startups e.V.](https://deutschestartups.org/) wanting to work out a legal document about how to use the trademark. Yeah... make the world even more complex than it is. Sorry, this thought is not worth thinking about more than a nano-second.
 
-Moreover - in a [blogpost on SiliconAlle](http://siliconallee.com/startups/2013/05/07/young-targets-backs-down-after-hackathon-trademark-backlash) they are talking about Lutz Leichsenring and that _"He also insisted that Young Targets was never going to ask “non-commercial” hackathons for money and emphasized that he and his team wanted to talk to the community to figure out the best way of using the brand"_ - are we going to differ between commercial and a non-commercial hackathons now? Or - can someone explain to me what a commercial hackathon is? I organized a few of them - for free - for money - but all non profit. 
+Moreover - in a [blogpost on SiliconAlle](http://siliconallee.com/startups/2013/05/07/young-targets-backs-down-after-hackathon-trademark-backlash) they are talking about Lutz Leichsenring and that _"He also insisted that Young Targets was never going to ask “non-commercial” hackathons for money and emphasized that he and his team wanted to talk to the community to figure out the best way of using the brand"_ - are we going to distinguish between commercial and a non-commercial hackathons now? Or - can someone explain to me what a commercial hackathon is? I organized a few of them - for free - for money - but all non profit. 
 
-I also totally agree with [Oliver Gassner](https://www.facebook.com/groups/loeschungmarkehackathon/permalink/129480887246506/) and Christine (who wrote me an email yesterday) to not only discuss this topic for the word "hackathon" but for all other generic words (or non generic words but common used in the community) that could be trademarked. I forwarded a few questions from Christine to Frederik:
+I also totally agree with [Oliver Gassner](https://www.facebook.com/groups/loeschungmarkehackathon/permalink/129480887246506/) and Christine (who wrote me an email yesterday) to not only discuss this topic for the word "hackathon" but for all other generic words (or non generic terms that are commonly used in the hacker community) that could be trademarked. I forwarded a few questions from Christine to Frederik:
 
 > Vielleicht könntest du deinen Anwalt mal die folgenden Punkte fragen:
 
@@ -63,7 +63,7 @@ I also totally agree with [Oliver Gassner](https://www.facebook.com/groups/loesc
 
 Christine and the others want to work on a DPMA crawler that can check the register for potential trademarked words like "hackathon".
 
-To sum it up: the trademark will (hopefully) be deleted and I really hope, that an idea like this won't come into your minds again, because I am sure, this won't work out anyway. If you're a hacker or a startup you should know - the community will sort out such things - like we sorted out the registration of this term. But that means that the community will also sort out the problem of getting money for hack-events, barcamps, etc. It's their events, their hackathons, music hack days, or whatever. We don't need to care about the community giving them money from other licences. Leave them and keep in mind: Credibility comes with merit, not ownership &#0153;
+To sum it up: the trademark will (hopefully) be deleted and I really hope, that an idea like this won't come into your minds again, because I am sure, this won't work out anyway. If you're a hacker or a startup you should know - the community will sort out such things - like we sorted out the registration of this term. But that means that the community will also sort out the problem of getting money for hack-events, barcamps, etc. It's their events, their hackathons, music hack days, or whatever. Sponsors shouldn't try to support the community by giving them money earned from malicious licenses. Leave them and keep in mind: Credibility comes with merit, not ownership &#0153;
 
 Jan
 
