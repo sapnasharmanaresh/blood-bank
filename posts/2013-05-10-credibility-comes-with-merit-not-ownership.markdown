@@ -2,7 +2,7 @@
 title: Credibility comes with merit, not ownership (TM)
 slug: credibility-comes-with-merit-not-ownership
 author: jan_kus
-published: false
+published: true
 featured_image: http://dl.dropboxusercontent.com/s/r2fp14o0pt0u19s/2013-05-10_at_1.40.04_AM.png
 published_at: 2013-05-10
 tags:
