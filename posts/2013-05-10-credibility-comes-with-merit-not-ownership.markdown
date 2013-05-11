@@ -13,7 +13,7 @@ Even if the trademark "hackathon" [is in progress of deletion (search for "++++ 
 
 I think trademarking this kind of a word (e.g.: 'marathon', 'half marathon', 'swimming', 'triathlon' or … 'hackathon'… ) is totally wrong because it is simply descriptive. I'm a trademark noob but that was my first thought. But even without this one in the end [Nele Wollert](https://www.facebook.com/nelewollert) described what this all is about: _Credibility comes with merit, not ownership_&#0153; 
 
-I would like to thank our lawyers [Albert Albrecht](http://albrechtanwaelte.de) and [Iris Kraft](http://markenquelle.de) for their support. One of my first steps was to try to delete the trademark and it was immediately clear that this is possible. Here is the argument why the word 'hackathon' is not trademarkable at all (German only) and it sounds totally reasonable to me:
+I would like to thank our lawyers [Frederik Albrecht](http://albrechtanwaelte.de) and [Iris Kraft](http://markenquelle.de) for their support. One of my first steps was to try to delete the trademark and it was immediately clear that this is possible. Here is the argument why the word 'hackathon' is not trademarkable at all (German only) and it sounds totally reasonable to me:
 
 >  Begründung zur Löschung der Marke „Hackathon“
 
@@ -49,7 +49,7 @@ But now I want to question a few thoughts which were posted within the [Facebook
 
 The first one is the idea of trademarking the word, take license fees for it and then support a local community? Really? I don't think that will work anyway. I even can't understand the thought _supporting a user group or the community by taking license fees for a trademark_. Good working usegroups, hackathons, meetups are supported anyway - some more some less - but they're supported by local companies or public institutions because they *want to do it* and NOT because they *have to do it*. Supporting the community ISN'T A MUST it IS GOODWILL. 
 
-Second: I had to laugh a bit but I am also really surprised and disappointed to see [Thomas Bachem](https://twitter.com/thomasbachem) and [Bundesverband Deutsche Startups e.V.](https://deutschestartups.org/) wanting to work out a legal document about how to use the trademark. Yeah... make the world even more complex than it is. Sorry, this thought is not worth thinking about more than a nano-second.
+Second: I am also really surprised and disappointed to see [Thomas Bachem](https://twitter.com/thomasbachem) and [Bundesverband Deutsche Startups e.V.](https://deutschestartups.org/) wanting to work out a legal document about how to use the trademark. Should we make the world more complex than it is?
 
 Moreover - in a [blogpost on SiliconAlle](http://siliconallee.com/startups/2013/05/07/young-targets-backs-down-after-hackathon-trademark-backlash) they are talking about Lutz Leichsenring and that _"He also insisted that Young Targets was never going to ask “non-commercial” hackathons for money and emphasized that he and his team wanted to talk to the community to figure out the best way of using the brand"_ - are we going to distinguish between commercial and a non-commercial hackathons now? Or - can someone explain to me what a commercial hackathon is? I organized a few of them - for free - for money - but all non profit. 
 
