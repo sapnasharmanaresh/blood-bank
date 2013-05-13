@@ -1,0 +1,35 @@
+{
+  "project": {
+    "slug": "splink_sportabzeichen",
+    "name": "Splink App Deutsches Sportabzeichen",
+    "sort_order": 21,
+    "description": "With the splink app 'Deutsches Sportabzeichen' users can check their requirements, search for training groups and track your results.",
+    "logo": "",
+    "screenshot": "",
+    "screenshot_small": "",
+    "url": "http://sportabzeichen.splink.de/",
+    "twitter_name": "splink",
+    "people": [
+      {
+        "person": {
+          "slug": "stephan_pavlovic",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "jakob_hilden",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "liane_thoennes",
+          "contact": true
+        }
+      }
+    ],
+    "what_we_did": "Railslove developed this fully responsive web application for the 'DOSB'. We did the inital concept, the design and the implemenation.",
+    "project_type": "client"
+  }
+}
