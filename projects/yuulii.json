@@ -1,0 +1,29 @@
+{
+  "project": {
+    "slug": "yuulii",
+    "name": "Yuulii",
+    "sort_order": 20,
+    "description": "",
+    "logo": "",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/yuulii/yuulli_gross.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/yuulii/yuulli_small.png",
+    "url": "http://www.yuulii.de/",
+    "twitter_name": "yuulii",
+    "people": [
+      {
+        "person": {
+          "slug": "stephan_pavlovic",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "jakob_hilden",
+          "contact": true
+        }
+      }
+    ],
+    "what_we_did": "Railslove kick-started this project in late 2012 and finished it up in January. The design was done by some external designer and all coding was done in 2 sprints.",
+    "project_type": "client"
+  }
+}
