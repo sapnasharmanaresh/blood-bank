@@ -1,10 +1,10 @@
 ---
-title: In Defence of jQuery UI and about new Possiblities using it with Sass
-slug: jquery-ui-sass-rails
+title: Rehabilitating jQuery UI with Words and Sass
+slug: rehabilitating-jquery-ui-with-words-and-sass
 author: jakob_hilden
-featured_image: https://dl.dropbox.com/u/409736/smurf_blog_background.png
-published: false
-published_at: 2012-11-09
+featured_image: https://dl.dropboxusercontent.com/u/409736/static/jquery-ui-sass-rails.png
+published: true
+published_at: 2013-05-13
 tags:
   keyword: sass, railslove, rails, oss, css, stylesheets, jquery-ui, gem, javascript, ui, frontend
 ---
