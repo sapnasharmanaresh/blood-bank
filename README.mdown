@@ -16,8 +16,8 @@ For Authors
 ### file list
 after you added a new file whose content is to synced to the API and eventually Thorax (railslove.com) please rerun `ruby create_file_list.rb`. We use file_list.json to manually sync the API with Blood Bank in case an error occurred or after we made changes to the data structure.
 
-The easiest way to get your Twitter ID is to go here (thanks to Tim):
-http://twitter-id-from-username.heroku.com/YOUR_TWITTER_NAME
+The easiest way to get your Twitter ID is to go here:
+[http://tweeterid.com](http://tweeterid.com)
 
 ### Slugs
 
