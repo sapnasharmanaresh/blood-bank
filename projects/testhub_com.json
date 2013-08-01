@@ -1,0 +1,27 @@
+{
+  "project": {
+    "slug": "testhub",
+    "name": "Testhub",
+    "sort_order": 21,
+    "description": "Testhub offer crowd usability and quality assurance tests for web sites. Have an online shop and want to ensure good usability or make sure you don't have nasty bugs in Internet Explorer 8 on Windows XP? Then testhub can help you with their crowd of testers. Choose your target audience by gender, age, internet experience, devices, languages etc., enter your shop's URL, and define tasks for testers - such as 'Find out what payment methods myLittleAwesomeShop.com offers and order a pair of red cowboy boots.' You'll receive a comprehensive PDF summary listing your shop's most frequent issues with links to specific scenes in tester screencasts for detailed analysis. Very valuable feedback can be gained from as little as five testers.",
+    "what_we_did": "We migrated UI-Check (as Testhub was previously known) to Rails. With the newly launched web application in their back, the team could more easily manage test projects and get better in touch with their crowd of testers.",
+    "logo": "",
+    "screenshot": "",
+    "screenshot_small": "",
+    "url": "http://www.testhub.com/",
+    "people": [
+      {
+        "person": {
+          "slug": "paul_wittmann",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "jakob_hilden"
+        }
+      }
+    ],
+    "project_type": "client"
+  }
+}
