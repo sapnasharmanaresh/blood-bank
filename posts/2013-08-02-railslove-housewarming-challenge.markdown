@@ -9,8 +9,6 @@ tags:
   keyword: housewarming, challenge
 ---
 
-Join our Railslove Housewarming Challenge
-
 "Hit the buzzer, and join a team." – At tonight's Housewarming party you'll either be green or purple, because we'll have two teams competing for the virtual* Railslove Housewarming Trophy!
 
 Yeah, we like games – and if you do, too, here's how you help your team win:
