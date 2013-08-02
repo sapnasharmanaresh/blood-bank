@@ -2,7 +2,7 @@
 title: Join our Railslove Housewarming Challenge
 slug: railslove-housewarming-challenge
 author: tim_schneider
-published: false
+published: true
 featured_image: https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/1069949_687568774602227_1741199664_n.jpg
 published_at: 2013-08-02
 tags:
