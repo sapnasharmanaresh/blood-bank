@@ -1,0 +1,35 @@
+{
+  "project": {
+    "slug": "Interactive-Cologne",
+    "name": "Interactive-Cologne",
+    "sort_order": 22,
+    "description": "INTERACTIVE COLOGNE is a one-week festival for talented hackers and designers to kick-off their own or others’ projects, refine or complete code collaboratively or just experiment. It is for startups, investors and entrepreneurs to meet in a creative atmosphere to discuss hot topics and network with other technology industry professionals who share similar passions and social interests.",
+    "logo": "",
+    "screenshot": "",
+    "screenshot_small": "",
+    "url": "http://interactive-cologne.com",
+    "twitter_name": "interactive_cgn",
+    "people": [
+      {
+        "person": {
+          "slug": "jan_kus",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "liane_thoennes",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "tatjana_lajendaecker",
+          "contact": true
+        }
+      }
+    ],
+    "what_we_did": "Together with Web de Cologne e.V., Thierhoff Consulting, c/o pop & C’n’B and some creative minds of Colognes hacker and startup scene we organized the whole event and developed the website.",
+    "project_type": "client"
+  }
+}

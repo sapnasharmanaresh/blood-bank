@@ -1,0 +1,53 @@
+{
+  "project": {
+    "slug": "skrill",
+    "name": "Skrill",
+    "sort_order": 23,
+    "description": "Skrill has been moving money digitally since 2001. It offers online payment solutions for business and consumers, allowing them to pay and get paid globally.",
+    "logo": "",
+    "screenshot": "",
+    "screenshot_small": "",
+    "url": "https://www.skrill.com/",
+    "twitter_name": "skrill",
+    "people": [
+      {
+        "person": {
+          "slug": "tim_schneider",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "maximilian_schulz",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "michael_bumann",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "marco_schaden",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "philipp_brumm",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "lars_brillert",
+          "contact": true
+        }
+      }
+    ],
+    "what_we_did": "Railslove developed...",
+    "project_type": "client"
+  }
+}
