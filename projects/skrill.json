@@ -18,32 +18,27 @@
       },
       {
         "person": {
-          "slug": "maximilian_schulz",
-          "contact": true
+          "slug": "maximilian_schulz"
         }
       },
       {
         "person": {
-          "slug": "michael_bumann",
-          "contact": true
+          "slug": "michael_bumann"
         }
       },
       {
         "person": {
-          "slug": "marco_schaden",
-          "contact": true
+          "slug": "marco_schaden"
         }
       },
       {
         "person": {
-          "slug": "philipp_brumm",
-          "contact": true
+          "slug": "philipp_brumm"
         }
       },
       {
         "person": {
-          "slug": "lars_brillert",
-          "contact": true
+          "slug": "lars_brillert"
         }
       }
     ],

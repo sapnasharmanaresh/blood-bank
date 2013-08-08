@@ -1,6 +1,6 @@
 {
   "project": {
-    "slug": "Eurovision Song Contest App",
+    "slug": "eurovision_song_contest_app",
     "name": "ESC",
     "sort_order": 24,
     "description": "The official ESC app provides news updates, photos and videos 365 days a year, and allows users to download their favourite songs of this year's contest. A highlight is the app's second-screen functionality, providing viewers with live updates during the shows about the contestants, their songs, opening- and interval acts, as well as the results. As soon as the lines open, users can vote right within the app.",
