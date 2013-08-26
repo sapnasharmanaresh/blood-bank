@@ -6,7 +6,7 @@ published: true
 featured_image: http://piratesummit.com/media/modules/galleries/big/dd0a95972ddbb61d1ff461bff505c5f1d7958bac.jpg
 published_at: 2013-08-24
 tags:
-  keyword: pirates, pirate summit, eps13, eps, event
+  keyword: pirates, pirate, summit, eps13, eps, event
 ---
 
 As every year in August Cologne will turn into a pirate's hideout. On August 26th and 27th the European Pirate Summit (http://piratesummit.com) takes place in Cologne. The Pirate Summit is an event for all the crazy startups, investors, professionals and developer among us. And as every year the pirate fun will happen at Odonien - the best place for more than 700 pirates. 
