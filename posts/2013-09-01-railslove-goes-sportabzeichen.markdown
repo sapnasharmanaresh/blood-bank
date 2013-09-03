@@ -3,7 +3,7 @@ title: Railslove goes sport
 slug: railslove-goes-sport
 author: stephan_pavlovic
 published: true
-featured_image: https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/1069949_687568774602227_1741199664_n.jpg
+featured_image: https://dl.dropboxusercontent.com/u/2380594/sportabzeichen/splink_team.png
 published_at: 2013-09-03
 tags:
   keyword: sportabzeichen, splink, railslove
