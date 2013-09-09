@@ -28,7 +28,7 @@ Halfway through the disciplines we continued with some coordination. The girls c
 After this we went on to the great final, 3000m (in words: three thousand meters) running. Special props go to our top smoker [Isabell](http://www.railslove.com/isabell_slowik), who battled herself to silver.
 <img src='https://dl.dropboxusercontent.com/u/2380594/sportabzeichen/3000m.jpeg' style='margin-top: 10px; margin-bottom: 10px; margin-right: 10px; float:left;clear:left'>
 
-The next days at the office you could easily identify the participants, because all of us where hoppling and complaining about the pain in every single bone.
+The next days at the office you could easily identify the participants, because all of us where limping and complaining about the pain in every single bone.
 
 One week later we went to Agrippabad for the final discipline, because for the Sportabzeichen you need a proof of your swimming capabilities. We combined the 25m sprint with some fun at the waterslide.
 
