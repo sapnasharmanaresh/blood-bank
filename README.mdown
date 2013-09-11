@@ -3,8 +3,8 @@
 ### If the automatic synching of content from Blood Bank to api.railslove.com should fail
 1. Download and set up [HeartChamber's](https://railslove.codebasehq.com/projects/railslove/repositories/heart-chamber/tree/master), which is the Railslove API app.
 2. Ensure you have access rights for the heroku app `heart-chamber-api`.
-3. `noglob rake blood_bank:sync_files['posts/2013-08-24-ahoy-matey-the-pirate-week-arrr.markdown']`
-(`noglob` is required b/c of a [zshell bug](https://github.com/robbyrussell/oh-my-zsh/issues/433))
+3. `noglob heroku run rake blood_bank:sync_files['posts/2013-08-24-ahoy-matey-the-pirate-week-arrr.markdown'] --app heart-chamber-api`
+(`noglob` is required b/c of a [zshell bug](https://github.com/robbyrussell/oh-my-zsh/issues/433), you can ignore it if you don't use zshell)
 
 For more details on manual synching see HeartChamber's [blood_bank.rake](https://railslove.codebasehq.com/projects/railslove/repositories/heart-chamber/blob/master/lib/tasks/blood_bank.rake) task.
 
