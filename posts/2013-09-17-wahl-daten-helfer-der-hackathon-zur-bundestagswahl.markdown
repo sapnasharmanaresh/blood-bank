@@ -3,7 +3,7 @@ title: Wahl.Daten.Helfer - Der Hackathon zur Bundestagswahl
 slug: wahl-daten-helfer-der-hackathon-zur-bundestagswahl
 author: jan_kus
 published: true
-featured_image: http://dl.dropboxusercontent.com/s/vfu6iupewj2rx9p/wahldatenhelfer.png
+featured_image: http://dl.dropboxusercontent.com/s/nbcyy9c16cr34d3/tEmD3.png
 published_at: 2013-09-17
 tags:
   keyword: bundestagswahl, hackathon, #btw13, wahlen, hack, tech, opendata, open, data
