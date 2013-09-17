@@ -21,7 +21,7 @@ Die Wahlen des Bundestags, als wichtigstes deutsches Verfassungsorgan, erzeugen 
 
 Doch gerade bei der Bundestagswahl werden detaillierte Informationen über Wahlergebnisse auf Wahlbezirks- und Wahllokalebene nur von einzelnen Gemeinden veröffentlicht. Das erschwert eine gezielte Auswertung durch Zivilgesellschaft, Wissenschaft und Unternehmen.
 
-![Webseite Wahl.Daten.Helfer](http://dl.dropboxusercontent.com/s/j06pos1276e3h39/2013-09-17_at_9.54.46_PM_2x.png)
+![Webseite Wahl.Daten.Helfer](http://dl.dropboxusercontent.com/s/d6atobilp6wjyl9/bundeshack.png)
 
 ## Das <wahllokal> in Köln
 
@@ -65,7 +65,7 @@ Wir haben auch schon angefangen zwei Apps zu entwickeln: den [Interaktiven Stimm
 
 Einige weitere Beispiele gibt es aber auch auf der Seite [Wahl.Daten.Helfer](http://wahldatenhelfer.de%2C/) zu sehen.
 
-![Wahllokalfinder](http://dl.dropboxusercontent.com/s/a2t1n0aee8755jp/hackpad.com_VLTAEO8ygy8_p.20989_1378649300818_Screen_Shot_2013-09-08_at_5.07.54_PM.png)
+![Wahllokalfinder](http://dl.dropboxusercontent.com/s/lvipwqf7xgrm9eo/wl.png)
 
 ## Nicht vergessen: am 22. September wählen gehen!
 
