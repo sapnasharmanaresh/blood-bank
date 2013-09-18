@@ -3,7 +3,7 @@ title: Kinder programmieren Wahl-Apps
 slug: kinder-programmieren-wahl-apps
 author: jan_kus
 published: true
-featured_image: http://www.ksta.de/image/view/2013/8/16/24336844,21805629,dmFlashTeaserRes,oder+Dojo+Creative+Commons.jpg
+featured_image: http://farm8.staticflickr.com/7367/9405297621_055bb0f47e.jpg
 published_at: 2013-09-18
 tags:
   keyword: bundestagswahl, hackathon, #btw13, wahlen, hack, tech, opendata, open, data, coderdojo, dojo, coder
@@ -24,3 +24,5 @@ Alle Inhalte werden von den Kindern selbst erstellt und live in die Web-App eing
 Das Coder Dojo CGN Team freut sich auf viele Kinder! Kommt und codet mit uns. Anmelden könnt ihr Euch hier: [http://zen.coderdojo.com/dojo/385](http://zen.coderdojo.com/dojo/385)
 
 30 kostenlose Tickets stehen zur Verfügung.
+
+Titelbild: [Medialab Prado CC-Lizenz http://www.flickr.com/photos/medialab-prado/](http://www.flickr.com/photos/medialab-prado/)
