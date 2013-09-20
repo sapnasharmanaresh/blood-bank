@@ -10,7 +10,7 @@ tags:
 ---
 Neben dem Wahl.Daten.Helfer-Hackathons (lese [hier](http://www.ksta.de/rheinklick/-ueber-wahl-daten-helfer-macher-der-demokratie-im-digitalen,22789250,24252784.html), [hier](https://netzpolitik.org/2013/wahl-daten-helfer-apps-viz-und-hacks-zur-wahl-2013/), [hier](http://railslove.com/blog/2013/09/17/wahl-daten-helfer-der-hackathon-zur-bundestagswahl) und [hier](http://railslove.com/blog/2013/09/18/kinder-programmieren-wahl-apps)) und der Coder-Dojo-Session ([hier nachlesen](http://www.ksta.de/rheinklick/coder-dojo-zur-btw13-kinder-programmieren-wahl-apps,22789250,24336118.html)) haben wir noch was ganz spezielles vorbereitet: die Weltprämiere [des Beiwagerl 3D-Druckers](http://beiwagerl.at/)!
 
-![3D-Drucker Beiwagerl](http://beiwagerl.at/bw.jpg)
+![3D-Drucker Beiwagerl](http://glui.me/?i=lp09mz9gb47il56/bundeshack_drucker.png/)
 
 Wir werden am Sonntag Abend mithilfe zwei dieser Drucker die Wahlergebnisse in quasi-echtzeit drucken und in der richtigen Farbe einsprühen. Entsprechende Bilder werden wir über [@wahldatenhelfer](http://twitter.com/WahlDatenHelfer) publizieren.
 
