@@ -8,7 +8,6 @@ published_at: 2013-09-30
 tags:
   keyword: bundestagswahl, hackathon, #btw13, wahlen, hack, tech, opendata, open, data, coderdojo, dojo, coder
 ---
-
 Am Wahlwochenende haben sich Entwickler, Designer und interessierte Bürger in Berlin, Köln und Ulm getroffen um gemeinsam an kreativen Anwendungen und Visualisierungen rund um die Daten zu Wahl zu arbeiten. Bei uns in Köln wurden eigens für das Event neue Datensätze von der Stadt veröffentlicht. Ziel des Projekts Wahl.Daten.Helfer., das von der Stadt Köln, API Köln, der Railslove GmbH und der Open Knowledge Foundation ausgerichtet wurde, war es nicht nur sich intensiv mit den Wahldaten auseinanderzusetzen und sich als Community zu einem spannenden Thema zu treffen, sondern auch für bevorstehende Kommunalwahlen Sets an Tools und Apps anzulegen, die leicht adaptiert und für Kommunalwahlen genutzt werden können.
 
 Die Bundestagswahl wird von allen Medien bestens begleitet, es gibt unzählige Visualisierungen und Anwendungen die Bürgern im Vorfeld dabei helfen sich zu informieren und einen Überblick zu bekommen. Auch die Ergebnisse werden bis ins kleinste Detail aufbereitet. Um auch bei Kommunalwahlen auf solch tolle Tools zurückgreifen zu können, stehen die bei Wahl.Daten.Helfer entwickelten Apps und Visualisierungen zur freien Nutzung zur Verfügung.
@@ -32,5 +31,3 @@ Der Wahl.Daten.Helfer. Hackday war gleichzeitig der Startschuss zu dem [Wettbewe
 <img src='https://dl.dropboxusercontent.com/u/1490556/hackpad.com_ZcouHpV15W2_p.20989_1380189464622_9894144653_0d1fb16ff1_c.jpg' style='margin-top: 10px; margin-bottom: 10px; clear:left'>
 
 Bilder vom Wochenende findet ihr [hier!](http://www.flickr.com/photos/jbvkoos/sets/72157635795929203/)
-
-
