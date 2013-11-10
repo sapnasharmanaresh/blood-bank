@@ -22,3 +22,4 @@ The second day will be focused on topics around the actual application, we will 
 
 Hope to see you there!
 
+Ps: For everybody who wants to go even more technical, there are rumors we will do another 3 day "Rails for Beginners" workshop in January 2014, so stay tuned.
