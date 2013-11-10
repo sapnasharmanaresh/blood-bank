@@ -1,7 +1,7 @@
 ---
 title: TechMBA im Startplatz
 author: stephan_pavlovic
-featured_image: https://www.dropbox.com/s/g6aw9b73un9inmu/Screenshot%202013-11-10%2018.43.42.png
+featured_image: https://photos-3.dropbox.com/t/0/AAD-NaVvdQmgqGg-U5emP4FCpi572DBQdTwyJdyr-6ZvSw/12/4394/png/1024x768/3/1384110000/0/2/Screenshot%202013-11-10%2018.43.42.png/GxPf_ucrTa3vxEZ6UNrxyJgxp6CHrq9DyPsO4ahzTO8
 tags:
   keyword: startplatz, workshop,
   person: stephan_pavlovic, paul_wittmann
