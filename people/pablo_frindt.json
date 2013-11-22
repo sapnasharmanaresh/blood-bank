@@ -1,0 +1,17 @@
+{
+  "person": {
+    "slug": "pablo_frindt",
+    "first_name": "Pablo",
+    "last_name": "Frindt",
+    "email": "pablo@railslove.com",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/tim/portrait.jpg",
+    "description": "Innovation and Project Manager Enthusiast",
+    "twitter_name": "pfrindt",
+    "twitter_uid": "26523378",
+    "github_name": "pfrindt",
+    "facebook_name": "pablo.frindt",
+    "meta_title": "Innovation and Project Manager Enthusiast",
+    "meta_description": "",
+    "family_status": "family"
+  }
+}

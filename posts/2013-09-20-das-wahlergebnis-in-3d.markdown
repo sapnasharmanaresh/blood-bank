@@ -3,7 +3,7 @@ title: Das Wahlergebnis in 3D
 slug: das-wahlergebnis-in-3d
 author: jan_kus
 published: true
-featured_image: http://beiwagerl.at/bw.jpg
+featured_image: http://farm4.staticflickr.com/3826/9894032984_2088b4f9e5_z.jpg
 published_at: 2013-09-20
 tags:
   keyword: bundestagswahl, hackathon, #btw13, wahlen, hack, tech, opendata, open, data, 3d, drucker, printing

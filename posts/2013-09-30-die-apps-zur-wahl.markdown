@@ -3,7 +3,7 @@ title: Die Apps zur Wahl
 slug: die-apps-zur-wahl
 author: tatjana_lajendacker
 published: true
-featured_image: http://www.flickr.com/photos/jbvkoos/9894032276/in/set-72157635795929203
+featured_image: http://farm3.staticflickr.com/2862/9894032276_6edda618cd_z.jpg
 published_at: 2013-09-30
 tags:
   keyword: bundestagswahl, hackathon, btw13, wahlen, hack, tech, opendata, open, data, coderdojo, dojo, coder
