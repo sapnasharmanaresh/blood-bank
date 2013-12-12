@@ -28,8 +28,8 @@ Another notable feature in makerist is the integration of [Skrill](https://www.s
 
 Finally, we recently added the possiblity to buy [makerist gift coupons](https://www.makerist.de/gift-coupons) - an ideal Christmas present for all your loved ones that are into sewing, knitting, or crochet. If you want to get an idea of the kind of courses that makerist offers, you can find a [list of all their courses](https://www.makerist.de/courses), or try out one of their two free courses:
 
-<iframe src="//player.vimeo.com/video/73090664" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/73090664" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<iframe src="//player.vimeo.com/video/80060403" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/80060403" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 We are looking forward to the road ahead with makerist with some great new features in the pipeline and hopefully more growth into new user segments and other topic areas.  It definitely is a big pleasure for us to work on this project, especially since we are all very fond of the whole "DIY idea" ourselves - we are currently simply better with bits and pixels than with needle and thread.
