@@ -9,15 +9,15 @@ tags:
   keyword: makerist, funding, railslove, client, startup, idea, DIY, responsive, skrill, payment
 ---
 
-Yesterday it was announced on [deutsche-startups.de](http://www.deutsche-startups.de/2013/12/11/high-tech-gruenderfonds-makerist/), that our client [makerist](http://makerist.de) has received funding from (High-Tech Gründerfonds)[http://www.high-tech-gruenderfonds.de/] and another anonymous investor.
+Yesterday it was announced on [deutsche-startups.de](http://www.deutsche-startups.de/2013/12/11/high-tech-gruenderfonds-makerist/), that our client [makerist](http://makerist.de) has received funding from [High-Tech Gründerfonds](http://www.high-tech-gruenderfonds.de/) and another anonymous investor.
 
-makerist is a new website for DIY enthusiasts selling professionally produced video tutorials, e.g. in the areas of sewing, knitting, crochet and more to come. Users can also buy the necessary materials for those video courses and share the results of their DIY projects with the makerist community.
+makerist is a new website for DIY enthusiasts selling professionally produced [video tutorials](https://makerist.de/courses), e.g. in the areas of sewing, knitting, crochet and more to come. Users can also buy the necessary materials for those video courses in the [makerist DaWanda shop](http://de.dawanda.com/shop/makerist) and share the results of their [DIY projects](https://makerist.de/works) with the makerist community.
 
 We are very pleased with the development of makerist since the launch in September (see our [pre launch blog post](http://railslove.com/blog/2013/09/03/makerist-launch)). Thanks to the investment, more and more [video courses](http://makerist.de/courses) are being produced and we are constantly adding new features.
 
 **Responsive design**
 
-For example, we are currently in the process of making more and more of the pages completely reponsive to offer a great experience on any kind of device be it a laptop, tablet or smartphone. As a foundation for the responsive HTML & CSS we use, aptly named, Zurb's [Foundation framework](http://foundation.zurb.com/) which has worked very well for us so far. The responsive features that Foundation offers include for example, a responsive grid, carefully crafted media queries + utiltity CSS classes, and a solution for responsive images. We encourage you to check it out. With good tools like that and a proper design, the sometime daunting task of making a page responsive can actually be just a little bit of extra effort. And we really think that it pays off.
+For example, we are currently in the process of making more and more of the pages completely reponsive to offer a great experience on any kind of device be it a laptop, tablet or smartphone. As a foundation for the responsive HTML & CSS we use, aptly named, Zurb's [Foundation framework](http://foundation.zurb.com/) which has worked very well for us so far. The responsive features that Foundation offers include for example, a [responsive grid](http://foundation.zurb.com/docs/components/grid.html), carefully crafted [media queries + utiltity CSS classes](http://foundation.zurb.com/docs/components/visibility.html), and a solution for [responsive images](http://foundation.zurb.com/docs/components/interchange.html). We encourage you to check it out. With good tools like that and a proper design, the sometime daunting task of making a page responsive can actually be just a little bit of extra effort. And we really think that it pays off.
 
 **Payment with Skrill**
 
