@@ -2,11 +2,10 @@
 title: Hilfsmittel für Startups - Entwicklung von einem Business Model Canvas
 author: pablo_frindt
 featured_image: https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn2/1465170_763550563670714_1253784169_n.jpg
-tags:
-  keyword: businessmodel, canvas, lean, leancanvas
 published: true
 published_at: 2013-21-11
-
+tags:
+  keyword: businessmodel, canvas, lean, leancanvas
 ---
 
 Der englische Begriff __„Business Model Canvas“__ ist in der Startup-Umwelt sehr bekannt. Aber leider gibt es auch viel Unkenntnis über das __„Wie“__, __„Wann“__ und __„Was“__, sowie die nötigen Schritte um ein erfolgreiches __„Business Model Canvas“__ zu erstellen.
