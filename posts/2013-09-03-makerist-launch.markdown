@@ -1,24 +1,36 @@
 ---
-title: makerist Launch
-slug: makerist-launch
-author: stephan_pavlovic
-published: true
+title: makerist receives funding and grows
+slug: makerist-funding
+author: jakob_hilden
+published: false
 featured_image: https://dl.dropboxusercontent.com/u/2380594/makerist/features_image.png
-published_at: 2013-09-03
+published_at: 2013-12-12
 tags:
-  keyword: makerist, launch, railslove, client, startup, bootstrapping, idea
+  keyword: makerist, funding, railslove, client, startup, idea, DIY, responsive, skrill, payment
 ---
 
-We're very proud to present our latest client work - [makerist](http://makerist.de). makerist is the winner of the [Interactive Cologne](http://interactive-cologne.com) startup pitches and we're proud to have the chance to work with [Axel Heinz](http://de.linkedin.com/pub/axel-heinz/8/954/38) (CEO of makerist) again. We worked with him in the early days of [9flats](http://www.9flats.com) and it was productive and fun!
+**Funding**
 
-The name makerist is a _portmanteau_ of _maker_ and _artist_ and describes pretty well what this project is all about. It's a community for people who love handmade stuff and offers video tutorials on different techniques in the fields of knitting and sewing. Other categories will follow in the future. People can communicate with professional teachers, showcase their latest work and discuss techniques and tricks with like-minded people.
+Yesterday it was announced on [deutsche-startups.de](http://www.deutsche-startups.de/2013/12/11/high-tech-gruenderfonds-makerist/), that our client [makerist](http://makerist.de) has received funding from (High-Tech Gründerfonds)[http://www.high-tech-gruenderfonds.de/] and another anonymous investor.
 
-![makerist Screenshot](https://dl.dropboxusercontent.com/u/2380594/makerist/screen_makerist.png)
+makerist is a new website for DIY enthusiasts selling professionally produced instructional video courses, e.g. in the areas of sewing, knitting, crochet and more to come. Users can also buy the necessary materials for those video courses and share the results of their DIY projects with the makerist community.
 
-[Liane](http://www.railslove.com/liane_thonnes), [Jakob](http://www.railslove.com/jakob_hilden) and [Paul](http://www.railslove.com/paul_wittmann) are the core team for makerist, with [me](http://www.railslove.com/stephan_pavlovic) and [Jan](http://www.railslove.com/jan_kus) joining for some support from time to time.
+We are very pleased with the development of makerist since the launch in September (see our [pre launch blog post](http://railslove.com/blog/2013/09/03/makerist-launch)). Thanks to the investment, more and more [video courses](http://makerist.de/courses) are being produced and we are constantly adding new features.
 
-makerist is built with [Rails 4.0](http://rubyonrails.org) with a [Postgresql](http://www.postgresql.org/) database and [Carrierwave](https://github.com/jnicklas/carrierwave) for file uploads.
+**Responsive design**
 
-The frontend is built with [HAML](http://haml.info), [Compass](http://compass-style.org), [CoffeeScript](http://coffeescript.org), [Zurb Foundation](http://foundation.zurb.com/) and we're using [Smurfville SASS conventions](https://github.com/railslove/smurfville).
+For example, we are currently in the process of making more and more of the pages completely reponsive to offer a great experience on any kind of device be it a laptop, tablet or smartphone. As a foundation for the responsive HTML & CSS we use, aptly named, Zurb's [Foundation framework] which has worked very well for us so far. The responsive features that Foundation offers include for exampele, a responsive grid, carefully crafted media queries + utiltity CSS classes, and a solution for responsive images. We encourage you to check it out. With good tools like that and a proper design, the sometime daunting task of making a page responsive can actually be just a little bit of extra effort. And we really think that it pays off.
 
-The official launch of makerist is scheduled for the end of the month - we'll keep you posted! Also don't forget to join makerist's Facebook Groups: [Näh Café](https://www.facebook.com/naehcafe) and [Strick Café](https://www.facebook.com/pages/Strick-Caf%C3%A9/527713197274867). We hope you like makerist! Stay tuned!
+**Payment with Skrill**
+
+Another notable feature in makerist is the integration of [Skrill](https://www.skrill.com/) as the payment service provider (besides PayPal). makerist was the very first customer to be able to use their new payment service offering, which provides a Javascript component (skrill.js) that allowed us to build a checkout workflow that is completely customized and optimized for makerist's needs. No redirects or ugly iframes that provide a suboptimal user experience and ultimately hurt conversion. We were able to leverage some great synergies here, since Skrill is also a client of us and we are heavily involved in building their new modern payment service offering.
+
+**makerist gift coupons**
+
+Finally, we recently added the possiblity to buy [makerist gift coupons](https://www.makerist.de/gift-coupons) - an ideal christmas present for all your loved ones that are into sewing, knitting, or crochet. If you want to get an idea of the kind of courses that makerist offers, you can check out their 2 free sample courses:
+
+<iframe allowfullscreen="" frameborder="0" src="//player.vimeo.com/video/73090664"></iframe>
+
+<iframe allowfullscreen="" frameborder="0" src="//player.vimeo.com/video/80060403"></iframe>
+
+We are looking forward to the road ahead with makerist with some great new features in the pipeline and hopefully more growth into new user segments and other topic areas.  It definitely is a big pleasure for us to work on this project, especially since we are all very fond of the whole "DIY idea" ourselves - we are currently simply better with bits and pixels than with needle and thread.
