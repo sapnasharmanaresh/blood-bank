@@ -1,6 +1,6 @@
 ---
-title: makerist receives funding and grows
-slug: makerist-funding
+title: makerist receives funding and adds new features
+slug: makerist-funding-and-features
 author: jakob_hilden
 published: false
 featured_image: https://dl.dropboxusercontent.com/u/2380594/makerist/features_image.png
