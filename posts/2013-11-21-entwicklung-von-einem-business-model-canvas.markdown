@@ -3,7 +3,7 @@ title: Hilfsmittel für Startups - Entwicklung von einem Business Model Canvas
 author: pablo_frindt
 featured_image: https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn2/1465170_763550563670714_1253784169_n.jpg
 published: true
-published_at: 2013-21-11
+published_at: 2013-11-21
 tags:
   keyword: businessmodel, canvas, lean, leancanvas
 ---
