@@ -20,11 +20,9 @@ We are very pleased with the development of makerist since the launch in Septemb
 
 For example, we are currently in the process of making more and more of the pages completely reponsive to offer a great experience on any kind of device – laptop, tablet or smartphone. As a foundation for the responsive HTML & CSS we use, aptly named, Zurb's [Foundation framework](http://foundation.zurb.com/) which has worked very well for us so far. The responsive features that Foundation offers include, for example, a [responsive grid](http://foundation.zurb.com/docs/components/grid.html), carefully crafted [media queries + utiltity CSS classes](http://foundation.zurb.com/docs/components/visibility.html), and a solution for [responsive images](http://foundation.zurb.com/docs/components/interchange.html). We encourage you to check it out. With good tools like that and a proper design, the sometime daunting task of making a page responsive can actually be just a little bit of extra effort. And we really think that it pays off.
 
-<!--
 **Payment with Skrill**
 
-Another notable feature in makerist is the integration of [Skrill](https://www.skrill.com/) as the payment service provider (besides PayPal). makerist was the very first customer to be able to use their new payment service offering, which provides a JavaScript component (skrill.js), that allowed us to build a checkout workflow that is completely customized and optimized for makerist's needs. No redirects or ugly iframes that provide a suboptimal user experience and ultimately hurt conversion. We were able to leverage some great synergies here, since Skrill is also a client of us and we are heavily involved in building their new modern payment service offering.
--->
+Another notable feature in makerist is the integration of [Skrill](https://www.skrill.com/) as the payment service provider, so that users can pay with credit cards (in addition to PayPal).  Using Skrills's technology allowed us to build a checkout workflow that is completely customized and optimized for makerist's needs. No redirects or ugly iframes which can only provide a suboptimal user experience and ultimately hurt conversion. We were able to leverage some great synergies here, since Skrill is also a client of us.
 
 **makerist gift coupons**
 
@@ -35,3 +33,6 @@ Finally, we recently added the possiblity to buy [makerist gift coupons](https:/
 <iframe src="//player.vimeo.com/video/80060403" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 We are looking forward to the road ahead with makerist with some great new features in the pipeline and hopefully more growth into new user segments and other topic areas.  It definitely is a big pleasure for us to work on this project, especially since we are all very fond of the whole "DIY idea" ourselves - we are currently simply better with bits and pixels than with needle and thread.
+
+**UPDATE**<br />
+We are very proud that makerist was selected as one out of 12 startups for the ["Start-up des Jahres" award by deutsche-startups.de](http://www.deutsche-startups.de/2013/12/16/start-des-jahres-nominierung/)
